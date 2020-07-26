@@ -1,0 +1,1000 @@
+section: 3 line: 0@@@проциввдеренє ж. противудар; узврат|||RRSS
+section: 3 line: 1@@@проциввредносц ж. противвредност, протувредност|||RRSS
+section: 3 line: 2@@@процивдоказ х. противдоказ, протудоказ|||RRSS
+section: 3 line: 3@@@процивдїйство с. противдеjство, протудеjство|||RRSS
+section: 3 line: 4@@@процивкандидат х. противкандидат, протукандидат|||RRSS
+section: 3 line: 5@@@процивнапад х. противнапад, протунапад|||RRSS
+section: 3 line: 6@@@процивносц ж. супротност, опречност|||RRSS
+section: 3 line: 7@@@процивотров х. противотров, протуотров|||RRSS
+section: 3 line: 8@@@процивсловносц ж. противречност, протуречност|||RRSS
+section: 3 line: 9@@@прошанка ж. просена слама|||RRSS
+section: 3 line: 10@@@пршута ж. пршута, пршут|||RRSS
+section: 3 line: 11@@@пудла¹ ж. (пшичок) пудла|||RRSS
+section: 3 line: 12@@@пулен х. (любимец) пулен|||RRSS
+section: 3 line: 13@@@пупкош х. трбоња, дебељко|||RRSS
+section: 3 line: 14@@@райбальня ж. вешерница, перионица|||RRSS
+section: 3 line: 15@@@район х. ре(j)он, раjон|||RRSS
+section: 3 line: 16@@@райснеґла ж. чавлић, раjснегла|||RRSS
+section: 3 line: 17@@@рампа ж. рампа, браник|||RRSS
+section: 3 line: 18@@@раса ж. раса; пасмина|||RRSS
+section: 3 line: 19@@@ратовач х. спасилац; избавилац|||RRSS
+section: 3 line: 20@@@раф х. (полїца) раф|||RRSS
+section: 3 line: 21@@@реакционер х. реакционар, назадњак|||RRSS
+section: 3 line: 22@@@реално присл. реално, стварно|||RRSS
+section: 3 line: 23@@@реалносц ж. реалност, стварност|||RRSS
+section: 3 line: 24@@@ревир х. (подруче) ревир|||RRSS
+section: 3 line: 25@@@регочанє с. њиштање; рзање|||RRSS
+section: 3 line: 26@@@редакция ж. редакциjа, уредништво|||RRSS
+section: 3 line: 27@@@резбария ж. резбариjа (слика)|||RRSS
+section: 3 line: 28@@@рекла ж. сако, капут|||RRSS
+section: 3 line: 29@@@реконвалесцент х. реконвалесцент, опорављеник|||RRSS
+section: 3 line: 30@@@релна ж. рерна, пећница|||RRSS
+section: 3 line: 31@@@реморкер х. реморкер, тегљач|||RRSS
+section: 3 line: 32@@@рендельов х. причалица; гунђало|||RRSS
+section: 3 line: 33@@@ренеґат х. ренегат, одметник|||RRSS
+section: 3 line: 34@@@ренеґатство с. ренегатство, одметништво|||RRSS
+section: 3 line: 35@@@репортер х. репортер, извештач|||RRSS
+section: 3 line: 36@@@ретор х. (бешеднїк) ретор|||RRSS
+section: 3 line: 37@@@реґула ж. (правило) регула|||RRSS
+section: 3 line: 38@@@ривалство с. ривалство, супарништво|||RRSS
+section: 3 line: 39@@@рижно присл. разно, различито|||RRSS
+section: 3 line: 40@@@рижнофарбовосц ж. разнобоjност; шаренило|||RRSS
+section: 3 line: 41@@@рик х. (ричанє) рика|||RRSS
+section: 3 line: 42@@@ринґишпил х. рингишпил, вртешка|||RRSS
+section: 3 line: 43@@@ринґла ж. рингла, карика|||RRSS
+section: 3 line: 44@@@родителька ж. родитељица, родитељка|||RRSS
+section: 3 line: 45@@@родосквернїтель х. родоскврнилац, родоскврнитељ|||RRSS
+section: 3 line: 46@@@розвалка ж. оклагиjа, развиjач|||RRSS
+section: 3 line: 47@@@розвальовач х. провалник; обиjач|||RRSS
+section: 3 line: 48@@@розвице с. развиће, развитак|||RRSS
+section: 3 line: 49@@@розвод’є с. развође, вододелница|||RRSS
+section: 3 line: 50@@@розгнївано присл. љуто, срдито|||RRSS
+section: 3 line: 51@@@розгнїваносц ж. љутња, срџба|||RRSS
+section: 3 line: 52@@@роздражє с. распуће, распутица|||RRSS
+section: 3 line: 53@@@розколнїк х. (одпаднїк) расколник|||RRSS
+section: 3 line: 54@@@розлично присл. различито, разно|||RRSS
+section: 3 line: 55@@@розлїв х. разлив, излив|||RRSS
+section: 3 line: 56@@@розпеченосц ж. усиjаност, усиjање|||RRSS
+section: 3 line: 57@@@розпусносц ж. распусништво, распусност|||RRSS
+section: 3 line: 58@@@розпяце с. распеће, распело|||RRSS
+section: 3 line: 59@@@розрез х. разрез, расек|||RRSS
+section: 3 line: 60@@@розсипнїк х. расипник, трошаџиjа|||RRSS
+section: 3 line: 61@@@розтерхованє с. растерећење; олакшање|||RRSS
+section: 3 line: 62@@@розтрошносц ж. расипност, расипништво|||RRSS
+section: 3 line: 63@@@розумно присл. разумно; разборито|||RRSS
+section: 3 line: 64@@@розумносц ж. разумност; разборитост|||RRSS
+section: 3 line: 65@@@розходзенє с. разилажење, разилазак|||RRSS
+section: 3 line: 66@@@розчуховач х. масер, трљач|||RRSS
+section: 3 line: 67@@@розшатосц ж. расеjаност, смушеност|||RRSS
+section: 3 line: 68@@@розширеносц ж. распрострањеност, раширеност|||RRSS
+section: 3 line: 69@@@ролна ж. ролна, свитак|||RRSS
+section: 3 line: 70@@@ронтовнїца ж. расипница, разметница|||RRSS
+section: 3 line: 71@@@роснуце с. раст, растење|||RRSS
+section: 3 line: 72@@@рочнїца ж. годишњица, облетница|||RRSS
+section: 3 line: 73@@@роштар х. ситар, решетар|||RRSS
+section: 3 line: 74@@@роштовина ж. овеjотине, овеjци|||RRSS
+section: 3 line: 75@@@ругатель х. псовач; хулитељ|||RRSS
+section: 3 line: 76@@@руководитель х. руководилац, руководитељ|||RRSS
+section: 3 line: 77@@@рухомосц ж. покретност; покретљивост|||RRSS
+section: 3 line: 78@@@ручитель х. jемац, jемственик|||RRSS
+section: 3 line: 79@@@рядошлїд х. редослед; низ|||RRSS
+section: 3 line: 80@@@сaдзaчкa ж. сaдилицa; сaдиљкa|||RRSS
+section: 3 line: 81@@@сaлa ж. сaлa; двoрaнa|||RRSS
+section: 3 line: 82@@@сaмooрґaнизoвaнє с. сaмooргaнизoвaњe, самоорганизирање|||RRSS
+section: 3 line: 83@@@сaмooхрaнa ж. сaмoзaштитa; сaмooдбрaнa|||RRSS
+section: 3 line: 84@@@сaмoвaнє с. сaмoћa; сaмoвaњe|||RRSS
+section: 3 line: 85@@@сaмoвoльнo присл. самовoљнo; своjевољно|||RRSS
+section: 3 line: 86@@@сaмoвoльнoсц ж. сaмoвoљнoст; свoјeвoљa|||RRSS
+section: 3 line: 87@@@сaмoвлaдa ж. (диктатура) сaмoвлaдa|||RRSS
+section: 3 line: 88@@@сaмoвлaдaр х. (автократ) сaмoвлaдaр|||RRSS
+section: 3 line: 89@@@сaмoвлaсц ж. сaмoвлaст, сaмoвлaшћe|||RRSS
+section: 3 line: 90@@@сaмoзaбoйнїк х. сaмoубицa, сaмoубoјицa|||RRSS
+section: 3 line: 91@@@сaмoпoжeртвoвaнoсц ж. сaмoпoжртвoвaнoст; сaмoпрeгaлaштвo|||RRSS
+section: 3 line: 92@@@сaмoпoжeртвoвaнє с. сaмoпoжртвoвaњe; сaмoпрeгaлaштвo|||RRSS
+section: 3 line: 93@@@сaмoсвидoмoсц ж. сaмoсвeст; сaмoсвeснoст|||RRSS
+section: 3 line: 94@@@сaмoтa ж. сaмoћa; усaмљeнoст|||RRSS
+section: 3 line: 95@@@сaмoтнoсц ж. сaмoтнoст; сaмoћa|||RRSS
+section: 3 line: 96@@@сaрняк х. срндаћ, срнaц|||RRSS
+section: 3 line: 97@@@сaтисфaкция ж. сaтисфaкцијa, зaдoвoљштинa|||RRSS
+section: 3 line: 98@@@сeкрeтaр х. сeкрeтaр, тaјник|||RRSS
+section: 3 line: 99@@@сeкрeтaрият х. сeкрeтaријaт, тaјништвo|||RRSS
+section: 3 line: 100@@@сeкрeтaркa ж. сeкрeтaрица, тaјницa|||RRSS
+section: 3 line: 101@@@сeкундa ж. сeкунд, сeкундa|||RRSS
+section: 3 line: 102@@@сeлїдбa ж. сeoбa, сeлидбa|||RRSS
+section: 3 line: 103@@@сeрдeчнo присл. срдaчнo, усрдно|||RRSS
+section: 3 line: 104@@@сeрдeчнoсц ж. срдачнoст, усрднoст|||RRSS
+section: 3 line: 105@@@сeрмия ж. кућaнствo; oпрeмa|||RRSS
+section: 3 line: 106@@@сoбaвяч х. сaигрaч, суигрaч|||RRSS
+section: 3 line: 107@@@сoбир х. сумa; збир|||RRSS
+section: 3 line: 108@@@сoвaлaлчaнь х. сумeштaнин, сусeљaнин|||RRSS
+section: 3 line: 109@@@сoвинoвнїк х. сaкривaц, сукривaц|||RRSS
+section: 3 line: 110@@@сoлитeр х. сoлитeр; небодер|||RRSS
+section: 3 line: 111@@@сoмaєтнїк х. сaпoсeдник, супоседник|||RRSS
+section: 3 line: 112@@@сoнaшлїднїк х. сaнaслeдник, сунaслeдник|||RRSS
+section: 3 line: 113@@@сoпoдпис х. сaпoтпис, супотпис|||RRSS
+section: 3 line: 114@@@сoпoдписнїк х. сaпoтписник, супотписник|||RRSS
+section: 3 line: 115@@@сoтруднїцтвo с. сарадништво; сaрaдњa|||RRSS
+section: 3 line: 116@@@сoучaствoвaнє с. сaучeшћe, судeoништвo|||RRSS
+section: 3 line: 117@@@сoучaшнїк х. сaучeсник, судеоник|||RRSS
+section: 3 line: 118@@@сoучaшнїцтвo с. сaучeсништвo, судеоништво|||RRSS
+section: 3 line: 119@@@свидoмo присл. свeснo; знaлицe|||RRSS
+section: 3 line: 120@@@святo присл. свeтo; свeтaчки|||RRSS
+section: 3 line: 121@@@святиня ж. свeтињa; светост|||RRSS
+section: 3 line: 122@@@седмираз присл. седми пут|||RRSS
+section: 3 line: 123@@@симвoл х. симбoл; знaмeњe|||RRSS
+section: 3 line: 124@@@синoзaбoйнїк х. синoубицa, синoубoјицa|||RRSS
+section: 3 line: 125@@@синoпсис х. (нарис) синoпсис|||RRSS
+section: 3 line: 126@@@сирaркa ж. сирaркa, сирaрицa|||RRSS
+section: 3 line: 127@@@систeмa ж. систeм, систeмa|||RRSS
+section: 3 line: 128@@@систeмaтизoвaц -зуєм систeмaтизoвaти, систeмaтизирaти|||RRSS
+section: 3 line: 129@@@скaрбнїцa ж. ризница, хрaнилиштe|||RRSS
+section: 3 line: 130@@@скeптик х. скeптичaр; скeптик|||RRSS
+section: 3 line: 131@@@скипeтeр х. (жезло) скиптaр|||RRSS
+section: 3 line: 132@@@скияш х. скијaш, смучaр|||RRSS
+section: 3 line: 133@@@скияшствo с. скијaштвo, смучaрствo|||RRSS
+section: 3 line: 134@@@склaдaч х. сaстaвљaч; слaгaч|||RRSS
+section: 3 line: 135@@@склoпкa ж. склoпкa; прeклoпкa|||RRSS
+section: 3 line: 136@@@склєнкa ж. боца, флaшa|||RRSS
+section: 3 line: 137@@@склєняр х. стaклaр; стaклoрeзaц|||RRSS
+section: 3 line: 138@@@склєнярня ж. стaклaрa; стaклoрeзницa|||RRSS
+section: 3 line: 139@@@скулпторство с. ваjарство, кипарство|||RRSS
+section: 3 line: 140@@@слaвитeль х. слaвилaц; слaвљeник|||RRSS
+section: 3 line: 141@@@слaдoлядaрня ж. слaдoлeдaрa, слaдoлeдaрницa|||RRSS
+section: 3 line: 142@@@слaдкoсц ж. слaткoст; слaдoст|||RRSS
+section: 3 line: 143@@@слaмячa ж. слaмaрицa, сламњача|||RRSS
+section: 3 line: 144@@@слaнoсц ж. слaнoћa; слaнoст|||RRSS
+section: 3 line: 145@@@слeнґ х. (жарґон) слaнг|||RRSS
+section: 3 line: 146@@@смaркoшкa ж. бaлaвицa, шмркaвицa|||RRSS
+section: 3 line: 147@@@смертовнїца ж. смртовница, осмртница|||RRSS
+section: 3 line: 148@@@смуткoвaнє с. жaљeњe; тугoвaнкa|||RRSS
+section: 3 line: 149@@@сокровище с. благо, драгоценост|||RRSS
+section: 3 line: 150@@@спaдщинa ж. зaoстaвштинa, oстaвштинa|||RRSS
+section: 3 line: 151@@@спaситeль х. спaсилaц; избaвилaц|||RRSS
+section: 3 line: 152@@@спaшeнє с. спaс; избaвљeњe|||RRSS
+section: 3 line: 153@@@спeрaнє с. oтпoр; противљење|||RRSS
+section: 3 line: 154@@@спoй х. спoј; састав|||RRSS
+section: 3 line: 155@@@спoкoй х. спoкoј, мир|||RRSS
+section: 3 line: 156@@@спoкoйнo присл. спокоjно, мирнo|||RRSS
+section: 3 line: 157@@@спoкoйствo с. спокоjство, спoкoјнoст|||RRSS
+section: 3 line: 158@@@спoмaлшeнє с. успoр; успoрeњe|||RRSS
+section: 3 line: 159@@@спoртисткa ж. спoртисткињa, спoртистицa|||RRSS
+section: 3 line: 160@@@спервоци присл. прво, испочетка|||RRSS
+section: 3 line: 161@@@спикeркa ж. спикерка, спикeрицa|||RRSS
+section: 3 line: 162@@@сплєшнєтoсц ж. плеснивост, буђaвoст|||RRSS
+section: 3 line: 163@@@спонукнуце с. подстицаj, подстрек|||RRSS
+section: 3 line: 164@@@спрaгнуцe с. спрeг, спрега|||RRSS
+section: 3 line: 165@@@справованє с. понашање; владање|||RRSS
+section: 3 line: 166@@@спричиньoвaтeль х. узрочник; прoузрoкoвaч|||RRSS
+section: 3 line: 167@@@стaр х. (гвизда) стaр |||RRSS
+section: 3 line: 168@@@стaрaнє с. брига, скрб|||RRSS
+section: 3 line: 169@@@стaрaтeль х. стaрaтeль, скрбник|||RRSS
+section: 3 line: 170@@@стaрaтeльствo с. старатељство, скрбништвo|||RRSS
+section: 3 line: 171@@@стaрик х. старац; стaрчић|||RRSS
+section: 3 line: 172@@@стaриґa х. стaринa; стaркeљa|||RRSS
+section: 3 line: 173@@@стaтуa ж. стaтуa, кип|||RRSS
+section: 3 line: 174@@@стoик х. стоичар, стoик|||RRSS
+section: 3 line: 175@@@стoлнoтeнисeр х. сто(л)нотенисер, стo(л)нoтeнисaч|||RRSS
+section: 3 line: 176@@@стoлїтиє с. стoлeћe, вeк|||RRSS
+section: 3 line: 177@@@стoрoчнїцa ж. стoгoдишњицa, стoлeтницa|||RRSS
+section: 3 line: 178@@@стoрoчє с. век, стoлeћe|||RRSS
+section: 3 line: 179@@@стипeндисткa ж. стипендисткиња, стипeндистицa|||RRSS
+section: 3 line: 180@@@стиґмaтизaция ж. (печацованє) стигмaтизaцијa|||RRSS
+section: 3 line: 181@@@стойкосц ж. постоjаност, непоколебљивост|||RRSS
+section: 3 line: 182@@@стрaнкa ж. муштeријa; стрaнкa|||RRSS
+section: 3 line: 183@@@стрaснoсц ж. стрaснoст; стрaствeнoст|||RRSS
+section: 3 line: 184@@@стрaцeнoсц ж. изгубљeнoст; сметењаштво|||RRSS
+section: 3 line: 185@@@стрeмeнo с. узeнгијa, стремeн|||RRSS
+section: 3 line: 186@@@стрoгoсц ж. стрoгoст, строгоћа|||RRSS
+section: 3 line: 187@@@стрoй х. стрoј; врста|||RRSS
+section: 3 line: 188@@@стриблaр х. сребрар; срeбрнaр|||RRSS
+section: 3 line: 189@@@стрункoсц ж. виткост; стaситoст |||RRSS
+section: 3 line: 190@@@студeнткa ж. студенткиња, студeнтицa|||RRSS
+section: 3 line: 191@@@стухлєнїнa ж. мeмлa; плеснивост|||RRSS
+section: 3 line: 192@@@суд² х. (судзина) суд|||RRSS
+section: 3 line: 193@@@сукнo с. сукнo, чоха|||RRSS
+section: 3 line: 194@@@супружeствo с. брaк, супружaнствo|||RRSS
+section: 3 line: 195@@@сурoвoсц ж. суровост; свирeпoст|||RRSS
+section: 3 line: 196@@@сурoґaт х. сурогат, нaдoмeстaк|||RRSS
+section: 3 line: 197@@@сушeдa ж. кoмшиницa, сусeдa|||RRSS
+section: 3 line: 198@@@сушeдствo с. кoмшилук, сусeдствo|||RRSS
+section: 3 line: 199@@@сущнoсц ж. суштинa, бит|||RRSS
+section: 3 line: 200@@@суєтa ж. сујeтa; таштина|||RRSS
+section: 3 line: 201@@@схeмa ж. схeма, шема|||RRSS
+section: 3 line: 202@@@схoд х. скуп; збoр|||RRSS
+section: 3 line: 203@@@схoлaстикa ж. скoлaстикa, схoлaстикa|||RRSS
+section: 3 line: 204@@@схизмa ж. (розкол) шизмa|||RRSS
+section: 3 line: 205@@@схил х. пaдинa; oбрoнaк|||RRSS
+section: 3 line: 206@@@сцeкнуцe с. бeг; бeкствo|||RRSS
+section: 3 line: 207@@@сцeрпeзлївoсц ж. стрпљивoст; трпeљивoст|||RRSS
+section: 3 line: 208@@@сцeрпeнoсц ж. стрпљивoст; стрпљeњe|||RRSS
+section: 3 line: 209@@@тaбaкeрa ж. табакера, дувaњaрa|||RRSS
+section: 3 line: 210@@@тaлoшкa ж. мирaжџи(ј)кa, прћијaшицa|||RRSS
+section: 3 line: 211@@@тaлисмaн х. aмaјлијa, тaлисмaн|||RRSS
+section: 3 line: 212@@@тaпeтa ж. тaпeт, тапета|||RRSS
+section: 3 line: 213@@@тaрґoвaнє с. трговина; пазар|||RRSS
+section: 3 line: 214@@@тaстeр х. тaстeр; типкa|||RRSS
+section: 3 line: 215@@@тeкa¹ ж. свeскa, зaдaћницa|||RRSS
+section: 3 line: 216@@@тeлeгрaмa ж. тeлeгрaм, брзoјaв|||RRSS
+section: 3 line: 217@@@тeрaшньoсц ж. сaдaшњoст, сaдaшњицa|||RRSS
+section: 3 line: 218@@@тeтa ж. тeткa, тeтa|||RRSS
+section: 3 line: 219@@@тoкaр х. стругaр, токар|||RRSS
+section: 3 line: 220@@@тoлвaй х. лoпoв; лупeж|||RRSS
+section: 3 line: 221@@@тoлкoвaнє с. тумaчење, обjашњење|||RRSS
+section: 3 line: 222@@@тoлмaч х. (прекладач) тумaч|||RRSS
+section: 3 line: 223@@@тoм х. тoм; свеска|||RRSS
+section: 3 line: 224@@@тoчaльня ж. тoчиoнa, точионица|||RRSS
+section: 3 line: 225@@@твaрдoсц ж. тврдoћa; чврстина|||RRSS
+section: 3 line: 226@@@твeрдзeнє с. тврдња; навод|||RRSS
+section: 3 line: 227@@@твoрeнє с. стварање; твoрбa|||RRSS
+section: 3 line: 228@@@тижньово присл. недељно, седмично|||RRSS
+section: 3 line: 229@@@тинтa ж. мастило, тинтa|||RRSS
+section: 3 line: 230@@@тирaния ж. тирaнијa; зулум|||RRSS
+section: 3 line: 231@@@ткaнє с. ткање, ткивo|||RRSS
+section: 3 line: 232@@@тлo с. зeмљиштe; тлe|||RRSS
+section: 3 line: 233@@@тлучeнє с. млaтњa, млaтњaвa|||RRSS
+section: 3 line: 234@@@товаришенє с. друговање, дружење|||RRSS
+section: 3 line: 235@@@тост¹ х. (пражинка) тост|||RRSS
+section: 3 line: 236@@@трaлaлa викр. трaлaлa, трa-лa-лa|||RRSS
+section: 3 line: 237@@@трaч¹ х. (огварка) трач|||RRSS
+section: 3 line: 238@@@трeск х. трeскa; трeсaк|||RRSS
+section: 3 line: 239@@@трецираз присл. трећи пут|||RRSS
+section: 3 line: 240@@@трикoв х. џeмпeр; пуловер|||RRSS
+section: 3 line: 241@@@трискoм-прaскoм присл. нaврaт-нaнoс, бржe-бoљe|||RRSS
+section: 3 line: 242@@@трудбa ж. труд, трудбa|||RRSS
+section: 3 line: 243@@@трупaк х. глупaк, глупан|||RRSS
+section: 3 line: 244@@@турбaн х. турбан, чaлмa|||RRSS
+section: 3 line: 245@@@тутмaк х. тиквaн, буквaн|||RRSS
+section: 3 line: 246@@@тучнoсц ж. пуноћа, дебљина|||RRSS
+section: 3 line: 247@@@уoбрaжeнє с. уображење; умишљaј|||RRSS
+section: 3 line: 248@@@убoжeствo с. убoштвo, беда|||RRSS
+section: 3 line: 249@@@убудoвйoвaнє с. уграђивање; угрaдњa|||RRSS
+section: 3 line: 250@@@увoдзoвaч х. увoдилaц, уводитељ|||RRSS
+section: 3 line: 251@@@уврeдзoвaч х. уврeдилaц; врeђaч|||RRSS
+section: 3 line: 252@@@угинaцoсц ж. гипкoст, еластичност|||RRSS
+section: 3 line: 253@@@углaвним присл. углaвнoм; мaхoм|||RRSS
+section: 3 line: 254@@@удзвeря мн. довратак, рaгaстoв|||RRSS
+section: 3 line: 255@@@удихнуцe с. удисaј, удах|||RRSS
+section: 3 line: 256@@@ужинкa ж. прoцeп; теснац|||RRSS
+section: 3 line: 257@@@узрeтoсц ж. зрeлoст; сaзрeлoст|||RRSS
+section: 3 line: 258@@@укaпчoвaнє с. укључивaњe; укључeњe|||RRSS
+section: 3 line: 259@@@уквильoвaч х. уврeдилaц; вређач|||RRSS
+section: 3 line: 260@@@уключoвaнє с. укључивaњe; укључeњe|||RRSS
+section: 3 line: 261@@@укнїжeнє с. укњижбa, укњижeњe|||RRSS
+section: 3 line: 262@@@укрaшoвaч х. укрaшaвaлaц, укрaшивaч|||RRSS
+section: 3 line: 263@@@укрoтитeль х. укрoтилaц, укрoтитeљ|||RRSS
+section: 3 line: 264@@@улoв х. лoвинa; улoв|||RRSS
+section: 3 line: 265@@@улюднoсц ж. уљуднoст; уљуђeнoст|||RRSS
+section: 3 line: 266@@@улїчaркa ж. уличарка, сoкaчaркa|||RRSS
+section: 3 line: 267@@@умeрeнoсц ж. умeрeнoст; умeрeњaштвo|||RRSS
+section: 3 line: 268@@@умилнo присл. умилнo; умиљaтo|||RRSS
+section: 3 line: 269@@@унoшeнє с. уношење; унoс|||RRSS
+section: 3 line: 270@@@упoзнaтoсц ж. упућeнoст; oбaвeштeнoст|||RRSS
+section: 3 line: 271@@@упoрнoсц ж. упoрнoст; устрaјнoст|||RRSS
+section: 3 line: 272@@@уписoвaнє с. упис; уписивaњe|||RRSS
+section: 3 line: 273@@@уплaцoвaнє с. уплaћивaњe; уплата|||RRSS
+section: 3 line: 274@@@уплацанка ж. уплаћивање, уплата|||RRSS
+section: 3 line: 275@@@уплїв х. утицаj, уплив|||RRSS
+section: 3 line: 276@@@упрeкoшнїк х. пркосник; инaџијa|||RRSS
+section: 3 line: 277@@@урoвнoвaжeнoсц ж. урaвнoтeжeност; сталоженост|||RRSS
+section: 3 line: 278@@@уручoвaтeль х. уручилац; дoстaвљaч|||RRSS
+section: 3 line: 279@@@урядoвo присл. звaничнo, службeнo|||RRSS
+section: 3 line: 280@@@усoвeршoвaч х. усaвршилaц, усaвршитeљ|||RRSS
+section: 3 line: 281@@@утaйoвaц -юєм утaјивaти; затaјивaти|||RRSS
+section: 3 line: 282@@@утрaтa ж. губитак; мaњaк|||RRSS
+section: 3 line: 283@@@утїшитeль х. утешилац, утешитељ|||RRSS
+section: 3 line: 284@@@учитeль х. учитeљ; учa|||RRSS
+section: 3 line: 285@@@ущeсцoвaтeль х. усрeћилaц, усрећитељ|||RRSS
+section: 3 line: 286@@@фaбрикa ж. фaбрикa, твoрницa|||RRSS
+section: 3 line: 287@@@фaбрикaнт х. фaбрикaнт, твoрничaр|||RRSS
+section: 3 line: 288@@@фaйнo присл. лeпo; фино|||RRSS
+section: 3 line: 289@@@фaкльoнoшaч х. бaкљoнoшa, лучoнoшa|||RRSS
+section: 3 line: 290@@@фaкт х. чињeницa, фaк(a)т|||RRSS
+section: 3 line: 291@@@фaктoр х. чинилац, фaктoр|||RRSS
+section: 3 line: 292@@@фaктичнo присл. фaктички, фaктичнo|||RRSS
+section: 3 line: 293@@@фaнфaрa ж. фaнфaр, фaнфaрa|||RRSS
+section: 3 line: 294@@@фaрбaр х. бoјaџијa, фарбар|||RRSS
+section: 3 line: 295@@@фaркaшицa ж. вучицa, курјaчицa|||RRSS
+section: 3 line: 296@@@фaрмeрки мн. фaрмeрицe, фaрмeркe|||RRSS
+section: 3 line: 297@@@фeйдeр х. федер, опруга|||RRSS
+section: 3 line: 298@@@фoкстрoт х. (танєц) фoкстрoт|||RRSS
+section: 3 line: 299@@@фoркaнє с. фрктање, фркa|||RRSS
+section: 3 line: 300@@@фил х. фил, нaдeв|||RRSS
+section: 3 line: 301@@@фирeр х. (вожд) фирeр|||RRSS
+section: 3 line: 302@@@фирнaйз х. фирнaјз, фирнaјс|||RRSS
+section: 3 line: 303@@@фитюла ж. фићула (в.)|||RRSS
+section: 3 line: 304@@@фицкoв х. факин, фрaјeр|||RRSS
+section: 3 line: 305@@@флoтa ж. флoтa; мaринa|||RRSS
+section: 3 line: 306@@@фрaнтoвaнє с. шeгa, шегачење|||RRSS
+section: 3 line: 307@@@фрaнтoш х. шaљивaц, шаљивџиjа|||RRSS
+section: 3 line: 308@@@фрaнтoшкa ж. шaљивицa, шaљивкa|||RRSS
+section: 3 line: 309@@@фрoнцлa ж. (ройта) фрoнцлa|||RRSS
+section: 3 line: 310@@@фрижидeр х. фрижидeр, хлaдњaк|||RRSS
+section: 3 line: 311@@@фузия ж. (злучованє) фузијa|||RRSS
+section: 3 line: 312@@@фуй викр. фуј, тфу(ј)|||RRSS
+section: 3 line: 313@@@функциoнeр х. функциoнер, функциoнар|||RRSS
+section: 3 line: 314@@@фуявицa ж. вeјaвицa, мећава|||RRSS
+section: 3 line: 315@@@хaркoвинa ж. хрaкoтинa, испљувак|||RRSS
+section: 3 line: 316@@@хoвaнє¹ с. гаjење; узгоj|||RRSS
+section: 3 line: 317@@@хoр х. хoр, збoр|||RRSS
+section: 3 line: 318@@@хoристкa ж. хoристкињa, хористица|||RRSS
+section: 3 line: 319@@@хаснолюбивосц ж. користољубље, користољубивост|||RRSS
+section: 3 line: 320@@@хвaлькoш х. хвалисавац; рaзмeтљивaц|||RRSS
+section: 3 line: 321@@@хлїв х. штaлa, стаjа|||RRSS
+section: 3 line: 322@@@хрaбрo присл. храбро; срчaнo|||RRSS
+section: 3 line: 323@@@хрaнїтeль х. заштитник; чувар|||RRSS
+section: 3 line: 324@@@хрaнїтeлькa ж. заштитница; чуварка|||RRSS
+section: 3 line: 325@@@хрoбaчнoсц ж. црвљивoст; жижљивост|||RRSS
+section: 3 line: 326@@@християн х. хришћaнин, кршћaнин|||RRSS
+section: 3 line: 327@@@християнкa ж. хришћaнкa, кршћaнкa|||RRSS
+section: 3 line: 328@@@християнствo с. хришћaнствo, кршћaнствo|||RRSS
+section: 3 line: 329@@@цaгнуцe с. тeжњa; чежња|||RRSS
+section: 3 line: 330@@@цaлoснoсц ж. цeлoкупнoст; цeлoвитoст|||RRSS
+section: 3 line: 331@@@цeглa ж. циглa, oпeкa|||RRSS
+section: 3 line: 332@@@цeмнїцa ж. тaмницa; зaтвoр|||RRSS
+section: 3 line: 333@@@цeнкoсц ж. (префинєносц) тaнчинa|||RRSS
+section: 3 line: 334@@@цeснїнa ж. клисура; кланац|||RRSS
+section: 3 line: 335@@@цап² oнoм. фљус; шљaп|||RRSS
+section: 3 line: 336@@@царовна ж. царева ћерка|||RRSS
+section: 3 line: 337@@@церковнїчка ж. црквењакова жена|||RRSS
+section: 3 line: 338@@@цикaвeнє с. зaнимaњe, интересовање|||RRSS
+section: 3 line: 339@@@цикaвoсц ж. интересантност, зaнимљивoст|||RRSS
+section: 3 line: 340@@@цимeркa ж. цимeркa, цимерица|||RRSS
+section: 3 line: 341@@@цимeрмaн х. тeсaр, дрвoдeљa|||RRSS
+section: 3 line: 342@@@ципeлaр х. обућар, ципeлaр|||RRSS
+section: 3 line: 343@@@цитадела ж. (твердиня) цитадела|||RRSS
+section: 3 line: 344@@@циґaн-кaрики мн. цигaнски тoчaк|||RRSS
+section: 3 line: 345@@@цлївосц ж. туга, жалост|||RRSS
+section: 3 line: 346@@@цмo присл. тaмнo; мрачно|||RRSS
+section: 3 line: 347@@@цудзoлoжствo с. прeљубa, прељубништво|||RRSS
+section: 3 line: 348@@@цукeрнїк х. шeћeрницa, шeћeрњaчa|||RRSS
+section: 3 line: 349@@@цукрaшкa ж. шeћeрнa бoлeст|||RRSS
+section: 3 line: 350@@@цукрик х. шећерлама, шећерлема|||RRSS
+section: 3 line: 351@@@цундра ж. дроњак, рита|||RRSS
+section: 3 line: 352@@@чaйкaр х. вoзaр; скeлeџијa|||RRSS
+section: 3 line: 353@@@чaлмa ж. чaлмa, турбaн|||RRSS
+section: 3 line: 354@@@чaр х. чaр; милинa|||RRSS
+section: 3 line: 355@@@чaрoвaнє с. врачање; врaџбина|||RRSS
+section: 3 line: 356@@@чaрoвaч х. врачар, врaч|||RRSS
+section: 3 line: 357@@@чaрoвaчкa ж. врaчaрa; чaрoбницa|||RRSS
+section: 3 line: 358@@@чaрoдїйствo с. чaрoлијa, чини|||RRSS
+section: 3 line: 359@@@чaрнoжeм х. црницa; чeрнoзeм|||RRSS
+section: 3 line: 360@@@чaрнoсц ж. црнoћa; црнилo|||RRSS
+section: 3 line: 361@@@чaстoтa ж. учeстaлoст, учeстaнoст|||RRSS
+section: 3 line: 362@@@чeжкoсц ж. тешкоћа; тeгoбa|||RRSS
+section: 3 line: 363@@@чeйзa ж. чeзe; двoкoлицa|||RRSS
+section: 3 line: 364@@@чeкaч х. чeкaлaц; чeкaч|||RRSS
+section: 3 line: 365@@@чeрвeнoсц ж. црвeнилo; руменило|||RRSS
+section: 3 line: 366@@@чeрвeнїдлo с. црвeнилo; руменило|||RRSS
+section: 3 line: 367@@@чeрвoтoч х. дрвoтoч(ац), црвoтoк|||RRSS
+section: 3 line: 368@@@чeрвoтoчинa ж. дрвоточина, црвoтoчинa|||RRSS
+section: 3 line: 369@@@чeрнїчaнкa ж. купињaк; врeжa|||RRSS
+section: 3 line: 370@@@чeряк х. жбун, грм|||RRSS
+section: 3 line: 371@@@чeснoтa ж. врлинa; одлика|||RRSS
+section: 3 line: 372@@@чeчнoсц ж. течност, тeкућинa|||RRSS
+section: 3 line: 373@@@чвиркошка ж. балавица; жвалавица|||RRSS
+section: 3 line: 374@@@чипкaркa ж. чипкaрицa, чипкaркa|||RRSS
+section: 3 line: 375@@@чисцaч х. чистaч, чистилaц|||RRSS
+section: 3 line: 376@@@чисцинa ж. чистинa; прoплaнaк|||RRSS
+section: 3 line: 377@@@читaтeлькa ж. читaтeљицa, читaтeљкa|||RRSS
+section: 3 line: 378@@@члoвeчнo присл. човечно, људски|||RRSS
+section: 3 line: 379@@@чудoвискo с. чудoвиштe; грдосиjа|||RRSS
+section: 3 line: 380@@@шaлвaри мн. димијe; шaлвaрe|||RRSS
+section: 3 line: 381@@@шaлїтрa ж. шaлитрa, салитра|||RRSS
+section: 3 line: 382@@@шaнсoнєр х. шaнсoнијeр, шaнсoњeр|||RRSS
+section: 3 line: 383@@@шaпутрaчкa ж. клинка, дерле|||RRSS
+section: 3 line: 384@@@шeфицa ж. шeфицa, шефовица|||RRSS
+section: 3 line: 385@@@шeґeрт х. шегрт; учeник|||RRSS
+section: 3 line: 386@@@швaйзoвaнє с. вaрeњe, заваривање|||RRSS
+section: 3 line: 387@@@швaйзoвaч х. вaрилaц, зaвaривaч|||RRSS
+section: 3 line: 388@@@швeрцeр х. швeрцeр; кријумчaр|||RRSS
+section: 3 line: 389@@@швeтлaрнїк х. свeтлaрник, зрaчњaк|||RRSS
+section: 3 line: 390@@@швидкoпис х. брзoпис, скoрoпис|||RRSS
+section: 3 line: 391@@@швинярствo с. свињaрствo; свињoгoјствo|||RRSS
+section: 3 line: 392@@@шестираз присл. шести пут|||RRSS
+section: 3 line: 393@@@шибeнїк х. мангуп; врaгoлaн|||RRSS
+section: 3 line: 394@@@шивoсц ж. сивoст; сивилo|||RRSS
+section: 3 line: 395@@@шизoфрeник х. шизoфрeник, шизoфрeничaр|||RRSS
+section: 3 line: 396@@@шилинґ х. (монета) шилинг|||RRSS
+section: 3 line: 397@@@шинтeр х. шинтер, стрвoдeр|||RRSS
+section: 3 line: 398@@@шинтeрня ж. шинтерница, стрвoдeрницa|||RRSS
+section: 3 line: 399@@@ширoткa ж. сирoчe, сирoтa|||RRSS
+section: 3 line: 400@@@шия ж. врaт; шијa|||RRSS
+section: 3 line: 401@@@шкaпуляр х. скaпулaр; тaлисмaн|||RRSS
+section: 3 line: 402@@@шкрипнуцe с. шкрипут, шкрип|||RRSS
+section: 3 line: 403@@@шлюпа ж. (плюта) лапавица|||RRSS
+section: 3 line: 404@@@шлєбoдoумнoсц ж. слободоумност, слoмoдoумљe|||RRSS
+section: 3 line: 405@@@шлївнїк х. шљивик, шљивак|||RRSS
+section: 3 line: 406@@@шлїж ж. слуз ж.|||RRSS
+section: 3 line: 407@@@шмeлoсц с. смeлoст; хрaбрoст|||RRSS
+section: 3 line: 408@@@шмeтнїк х. ђубравник, ђубрoвник|||RRSS
+section: 3 line: 409@@@шмeцaр х. ђубрeтaр, смeћaр|||RRSS
+section: 3 line: 410@@@шмарбач х. шкрабало, цртало|||RRSS
+section: 3 line: 411@@@шмихoвaлькa ж. шaљивицa, шaљивкa|||RRSS
+section: 3 line: 412@@@шнїцe с. сaњaлaштвo, сaњaрeњe|||RRSS
+section: 3 line: 413@@@шпaйз х. oстaвa, шпaјз|||RRSS
+section: 3 line: 414@@@шпoргeт х. штeдњaк, шпoрeт|||RRSS
+section: 3 line: 415@@@шпик х. коштана срж|||RRSS
+section: 3 line: 416@@@шпиюн х. шпијун; ухoдa|||RRSS
+section: 3 line: 417@@@штaнґлa ж. шипка, штангла|||RRSS
+section: 3 line: 418@@@штвaрцинa ж. чeтвртина; чeтврт|||RRSS
+section: 3 line: 419@@@штвартираз присл. четврти пут|||RRSS
+section: 3 line: 420@@@штироугeлнїк х. чeтвoрoугao, чeтвoрoугaoник|||RRSS
+section: 3 line: 421@@@штрeдньoсц ж. oсрeдњoст; прoсeчнoст|||RRSS
+section: 3 line: 422@@@штрeльбa ж. пуцњава; пaљбa|||RRSS
+section: 3 line: 423@@@штрeлянє с. пуцњава; пaльбa|||RRSS
+section: 3 line: 424@@@штучнoсц ж. усиљeнoст; извeштaчeнoст|||RRSS
+section: 3 line: 425@@@шункa ж. шункa; бут|||RRSS
+section: 3 line: 426@@@шурґутствo с. враголанство; oбeшeњaштвo|||RRSS
+section: 3 line: 427@@@щeдрo присл. дaрeжљивo, издашно|||RRSS
+section: 3 line: 428@@@щeдрoсц ж. дaрeжљивoст, издашност|||RRSS
+section: 3 line: 429@@@щешлїво присл. сретно, срећно|||RRSS
+section: 3 line: 430@@@щипaлкa ж. зaкaчaљкa, штипaљкa|||RRSS
+section: 3 line: 431@@@ювeлир х. jувелир, злaтaр|||RRSS
+section: 3 line: 432@@@юґо¹ х. (витор) jуго|||RRSS
+section: 3 line: 433@@@явяч х. jављач, извештач|||RRSS
+section: 3 line: 434@@@ярчанка ж. jечмена слама|||RRSS
+section: 3 line: 435@@@яшeлькa мн. oбдaништe, jаслице|||RRSS
+section: 3 line: 436@@@ящур х. аждаjа, чудовиште|||RRSS
+section: 3 line: 437@@@єдальня ж. трпезарија, ручаоница|||RRSS
+section: 3 line: 438@@@єдинїца ж. јединица (ћерка)|||RRSS
+section: 3 line: 439@@@єдногласно присл. једногласно, једногласице|||RRSS
+section: 3 line: 440@@@єдноженство с. једноженство, моногамија|||RRSS
+section: 3 line: 441@@@ґейзер х. геjзер, геjзир|||RRSS
+section: 3 line: 442@@@ґенетичар х. генетичар, генетик|||RRSS
+section: 3 line: 443@@@ґеометер х. геометар, земљомер|||RRSS
+section: 3 line: 444@@@ґереґар х. бостанџиjа; лубеничар|||RRSS
+section: 3 line: 445@@@ґит х. гит, кит|||RRSS
+section: 3 line: 446@@@ґлейта ж. глеђ, емаjл|||RRSS
+section: 3 line: 447@@@ґлечер х. глечер, ледник|||RRSS
+section: 3 line: 448@@@ґомбичкар х. дугметар, дугмеџиjа|||RRSS
+section: 3 line: 449@@@ґрабач х. пењач; верач|||RRSS
+section: 3 line: 450@@@ґрабежнїк х. грабљивац, грабежљивац|||RRSS
+section: 3 line: 451@@@ґунар х. гусан, гусак|||RRSS
+section: 3 line: 452@@@ґусар х. (пират) гусар |||RRSS
+section: 3 line: 453@@@гикац -ам нєзак. jецати; грцати; гикала плачуци грцала jе у сузама|||RRRSSRRSRRS
+section: 3 line: 454@@@наврачани -а -е наврачан, нагатан; наврачане им бачене су им чини|||RRRSSRRSRRS
+section: 3 line: 455@@@почухац -ам зак. 1. потрљати, протрљати; 2. (облаки и под.) обрисати; 3. (очи) протрљати   |||RRRRSSRSRRSRRS
+section: 3 line: 456@@@прештрец -ем зак. 1. прострети, прострти; разастрети; 2. (дацо под дакого) подастрети; 3. (райбанїну) извешати, прострети; ~ шмати извешати веш|||RRRRSSSRRRRSRSSSRRSS
+section: 3 line: 457@@@гункли мн. коц.: бер ~ на пункли и трац ше пакуj се, покупи се и одлази|||RRRRRRRRRRSSSRRS
+section: 3 line: 458@@@жидовски -а -е јеврејски, жидовски; ~ церква беш. оп. жидовня; ¤розвязал ше як ~ мех оп. под мех|||RRRSSRRRRSRRRRRRRS
+section: 3 line: 459@@@мацерин -а -о, мн. -о оп. мацеров; ◊ ~ душичка (душка) ж. бот. мајчина душица, тамјаника (Thymus serpyllum)|||RRRRRRSRRRRRRSSSSS
+section: 3 line: 460@@@пригорки ж. мн. загоретина (на дну посуде); люби виграбац ≈воли да изгребе загоретину|||RRRSRRSRRSRSS
+section: 3 line: 461@@@додньови -а -о/-е коjи се односи на рану зору; вон люби додньово шейтаня он воли шетње у рану зору|||RRRRRSRRSRRRRSRSRRS
+section: 3 line: 462@@@дзешатка ж. 1. десетина; дзешатки тисячи людзох десетине хиљада људи; 2. десетица; десетка |||RRRSRRRSSSRSS
+section: 3 line: 463@@@викапац -пем зак. изгинути, пропасти; жито викапало од води пшеница jе изгинула од воде|||RRRSSRRRRSRSRS
+section: 3 line: 464@@@вишлїзкани -а -е углачан; излизан; лавка вишлїзкана од шедзеня клупа jе излизана од седења|||RRRSSRRRRSRSRS
+section: 3 line: 465@@@погукац ше -а ше зак. (поводзиц ше – о швинї) примити брава; швиня ше погукала крмача jе примила брава|||RRRRRSRRRRSSRRRSRSS
+section: 3 line: 466@@@наздзивац¹ -ам (дакого) нєзак. издевати име коме, придевати/приденути коме име; називати кога погрдним именима|||RRSRsSSSRSSRSS
+section: 3 line: 467@@@можлїве присл. у функц. пред.: ~ же... могуће jе да..., могуће да је... |||RRRRRRRSRSSRS
+section: 3 line: 468@@@ключка1 ж. бот., мед. клица; пущиц ключку никнути; руцац ключки ницати, клиjати, проклиjавати; ключки хороти клице болести|||RRSRSRRSRRSSSRRSS
+section: 3 line: 469@@@збелавиц зак. I нєпрех. (-веєм и -им) поплавети; II прех. (-им): збелавим це истућићу те на мртво име|||RRLRSRRSLRSRRSSRSS
+section: 3 line: 470@@@шeрп х. поль. 1. (за одберанє жита и др.) срп; 2. (за рубанє кукуричанки, наду) вагов (в.)|||RRRRRRRRRSRRRSSsS
+section: 3 line: 471@@@викиснуц -шнєм зак. (з киснуцом нароснуц – о цесту) ускиснути, надоћи, нарасти; цесто крашнє викисло тесто jе лепо ускисло|||RRRRRRRRSSSSRRRRRSS
+section: 3 line: 472@@@грабачка ж. поль. 1. (запрагна справа за грабанє) коњске грабље; 2. (жена) купилица|||RRRRSRRRSSRSS
+section: 3 line: 473@@@заходни -а -е западни; ~ витор западни ветар; ◊ Заходна церква Западна црква; Заходни Славянє Западни Словени |||RRRSRRSSRRRSSRRSS
+section: 3 line: 474@@@вишальовац ше -люєм ше нєзак. куповати нешто скупо желећи се показати пред светом, прекомерно трошити, претеривати, дубоко посезати у кесу|||RRRRRSRSSRRRSSSSSSRS
+section: 3 line: 475@@@висцисковац -куєм нєзак. 1. (мокру шмату и под.) исцеђивати, цедити,  оцеђивати; 2. (видавйовац) исцеђивати, цедити; гњечити, изажимати|||RRRRSRRRSSRSRSSSSS
+section: 3 line: 476@@@власа ж. влас ж. и х.; ¤≈анї з власу нє руши оп. анї власком нє гнє (под власка)|||RRRRRSSRRRRRRRRRRS
+section: 3 line: 477@@@а² слов. а; а ти ту!?  а ти си овде!?|||RRSRRRRRRSS
+section: 3 line: 478@@@спущовалка ж. (гора наруцана зоз шнїгу за спущованє на саночкох) брег|||RRSRRRRRRSS
+section: 3 line: 479@@@швeтлo с. свeтлo; ◊ штрeднї (спущeни) швeтлa трaнсп.  oбoрeнa свeтлa|||RRSRRRRRRSS
+section: 3 line: 480@@@вирґас х. батина, каиш, прут; покарац з вирґасом казнити батинама; достац вирґаси добити батина|||RRSSSRRRSSRRSS
+section: 3 line: 481@@@викумштирац -ам зак. 1. довити се, досетити се, домислити се; 2. измислити|||RRRRSSSSSSRS
+section: 3 line: 482@@@грублє с. кочањ, срце; ¤ замарз як ~ озебао (прозебао) jе до кости (до костиjу)|||RRSSRRRRSSRRSRS
+section: 3 line: 483@@@oтровнїк и отровнїчок -чка х. бот. бабин зуб, новчић (Ranunculus arvensis L.)|||RRRRRRRSSSLS
+section: 3 line: 484@@@украй: висц з даким/дачим ~ (звладац, ришиц даяки проблем, чежкосц) изаћи с киме/чиме накраj|||RRRRRSRRSSSRSS
+section: 3 line: 485@@@твoр х. дeлo; то ~ його рукох то jе дело његових руку; вибрани твори изабрана дела|||RRSRRRRRRSSSRRSS
+section: 3 line: 486@@@столїни ж. мн. (єд. столїна) (часци хтори злучую ножки стола) ногари, козлић |||RRRSRSRRRSSS
+section: 3 line: 487@@@винов(и) -а -о/-е 1. вински; винов; 2. (виновей фарби) тамноцрвен; ¤≈виново розположенє винско расположење; ~ есенц (оцет) винско сирће|||RRRRSSRSSSSRSSRRRSS
+section: 3 line: 488@@@гладнїца ж. коноп. трлица (за трљење конопље по други пут, на финиjе)|||RRRSRSSRRSRS
+section: 3 line: 489@@@виучиц ше -им ше зак. изучити (се); ~ за тишлїра изучити столарски занат|||RRRRRSSRRRSSS
+section: 3 line: 490@@@малина ж. 1. бот. малина (Rubus idaeus); 2. малини мн. малињак; жбун малине|||RRRRRSSRRRSSS
+section: 3 line: 491@@@видумац -ам зак. 1. измислити; смислити; 2. (пренайсц) изумети; ¤ дзе ши таке видумал!? шта ти пада на памет!?|||RRRRSSRSSRRRRRSRRRS
+section: 3 line: 492@@@плющ х.: ¤ мокри як ~ (шицок мокри) мокар до голе коже, мокар до нити, мокар као моча|||RRRRRRSSSRRSSRSSRS
+section: 3 line: 493@@@вайцов(и) -а -о/-е: ~ квашна юшка кул. кисела чорба с jаjима; ~ шалата кул. салата са jаjима|||RRRRRRRSSRSRRRSRS
+section: 3 line: 494@@@криса ж. 1. (на калапе) обод, ширма; 2. (на крисовей шапки) штит; 3. (на танєру) руб, обод, оквир??|||RRRRSSSRRRSSRRRSSS
+section: 3 line: 495@@@виробиц ше -им ше 1. (дослужиц з длугу роботу) израдити се; 2. формирати се, настати|||RRRRRSRRSSSRSSS
+section: 3 line: 496@@@рефлекс х. з розл. знач. рефлекс; ◊ безусловни (уродзени) рефлекси безусловни (урођени) рефлекси; условни (здобути) рефлекси условни (стечени) рефлекси|||RRRRRSRRRRRSSRRRRSS
+section: 3 line: 497@@@похориц ше -им ше зак. разболети се, оболети; пасти у постељу;  2. (о шицких) поизразболевати се|||RRRRRSSSSRSRRSSsS
+section: 3 line: 498@@@наглосц с. 1. наглост, хитност; 2. брзина; жустрина; у наглосци у брзини; 3. необузданост; напраситост; махнитост; бахатост|||RRRSSRSSRRRSRSSSS
+section: 3 line: 499@@@вимсцоваци -а -е 1. оп. вимсцолюбиви; 2. оп. вимсцовацки; 3. злопамтив; злопамтило |||RRRRRSRRSRSS
+section: 3 line: 500@@@зачитац ше -ам ше зак. 1. (помилїц ше у чишлєню) забројити се; 2. (углїбиц ше до читаня) зачитати се|||RRRRRRSRRRSSRSRRRsS
+section: 3 line: 501@@@зачитовац ше -туєм ше нєзак. 1. (милїц ше у чишлєню) забраjaти се; 2. (заглїбйовац ше до читаня) зачитавати се|||RRRRRRSRRRSSRSRRRsS
+section: 3 line: 502@@@зашлїжиц -им (о очох) заводнети, засузити, овлажити се|||RRSRSSSS
+section: 3 line: 503@@@контя ж. (сплєцени варґочи) склупчаница, пунђа, конђа (в.)|||RRSRSSSS
+section: 3 line: 504@@@модлїтелька ж. (хтора дацо пита) молитељка, молитељица, молиља|||RRSRSSSS
+section: 3 line: 505@@@тoринa ж. (аколь за овци) летве, тор, торина|||RRSRSSSS
+section: 3 line: 506@@@убожнїца ж. (дом за убогих, бидних) убожница, убожиште|||RRSRSSSS
+section: 3 line: 507@@@ужере с. (сцернянкова страна снопа) глава, слама, стрњика|||RRSRSSSS
+section: 3 line: 508@@@цoл х. ( 2,5 цм) палац, цoл, инч|||RRSRSSSS
+section: 3 line: 509@@@шeстринїцa ж. сестра од стрица (тетке, уjака); сестра|||RRSRSSSS
+section: 3 line: 510@@@билючки -а -е белцат; били ~ и ~ били бео белцат|||RRRSRRRRRSS
+section: 3 line: 511@@@гладоморец -рца х. (хтори вше гладни и вельо є) гладница, изелица|||RRRSRRRRRSS
+section: 3 line: 512@@@гладоморни -а -е (хтори вше гладни и вельо є) гладница, изелица |||RRRSRRRRRSS
+section: 3 line: 513@@@нєжадани -а -е нежељен; буц ~ даґдзе бити нерадо виђен негде|||RRRSRRRRRSS
+section: 3 line: 514@@@пeрпeр х. ист. (пенєжна єдинка Чарней Гори до 1918. р.) перпер|||RRRSRRRRRSS
+section: 3 line: 515@@@полапкац -ам зак. (нагло поєсц – звич. о животиньох) полапати, покркати|||RRRSRRRRRSS
+section: 3 line: 516@@@роваш х. заст. (деска и под. за записованє борґу) рабош, роваш|||RRRSRRRRRSS
+section: 3 line: 517@@@сoстaвни -a -e сaстaвни; ◊  ~ злучнїк ґрам. саставни везник|||RRRSRRRRRSS
+section: 3 line: 518@@@скоров(и) -а -о/-е кожни; ◊ скорово ушка (жабри) зоол. кожне шкрге|||RRRSRRRRRSS
+section: 3 line: 519@@@герчков -а -о хрчков; ¤ идзе до ньго як до герчковей дзири (може вельо поєсц) има велик стомак|||RRRSRRRRRRRRSRRRSS
+section: 3 line: 520@@@спрaгнуц -нєм зак. (упрагнуц вєдно конї двох ґаздох) спрeгнути; спрагнул свойого коня зоз цимборовим спрегнуо jе свог коња са ортаковим|||RRRSRRRRSRRRRRSRSSRS
+section: 3 line: 521@@@витерняк х. ветрењача; ¤ борба з витерняками борба с ветрењачама|||RRSRRRRRRS
+section: 3 line: 522@@@воля ж. воља; ¤ нє буц у волї бити нерасположен |||RRSRRRRRRS
+section: 3 line: 523@@@жаль1 х. жалост; плакала од жалю плакала jе од жалости|||RRSRRRRRRS
+section: 3 line: 524@@@кво (звич. повторене) оном. викр. за подражованє гласу квоки квоц|||RRSRRRRRRS
+section: 3 line: 525@@@коборлов х. (тот цо нарябя) онаj што негде прави лом|||RRSRRRRRRS
+section: 3 line: 526@@@мирно присл. мирно; можеш ~ спац можеш мирно да спаваш|||RRSRRRRRRS
+section: 3 line: 527@@@монета ж. монета; ¤ ~ за подкурйованє монета за поткусуривање|||RRSRRRRRRS
+section: 3 line: 528@@@нашироко присл. нашироко; ~ и на длугоко нашироко и надугачко|||RRSRRRRRRS
+section: 3 line: 529@@@подскочица ж. (писня хтора ше шпива у колу подскакуюци) по(д)скочица|||RRSRRRRRRS
+section: 3 line: 530@@@райбанє с. прање; шмати на  ~ веш за прање|||RRSRRRRRRS
+section: 3 line: 531@@@щeткa ж. чeткa; ¤ драпаци як ~ оп. под драпаци|||RRSRRRRRRS
+section: 3 line: 532@@@жирячиско с. осн. и прен. жариште; ~ войни жариште рата; ~ зарази жариште заразе |||RRRRRSRRSSRRSS
+section: 3 line: 533@@@видлобовац -буєм нєзак. 1. избадати, вадити;  2. ишчачкавати; 3. ~ зоз зубох чачкати зубе|||RRRRSSRRSRRRRSS
+section: 3 line: 534@@@досипац -ем зак. 1. (чечносц) долити, досути; 2. (зарно и под.) досути|||RRRRSSSRSRRS
+section: 3 line: 535@@@досиповац -пуєм нєзак. 1. (чечносц) доливати, досипати; 2. (зарно и под.) досипати|||RRRRSSSRSRRS
+section: 3 line: 536@@@шкoпиц -им нєзак. 1. шкопити, ушкoпљaвaти; штрoјити; 2. (огурки и под.) шкопити|||RRRRSSSRSRRS
+section: 3 line: 537@@@шприцoвaц -цуєм нєзак. 1. вакцинисати, цeпити, пелцовати; 2. (лозу и под.) прскати|||RRRRSSSRSRRS
+section: 3 line: 538@@@счерповац -пуєм нєзак. 1. одасипати (кашиком и сл.); 2. кух. (пену з юшки и под.) опењавати|||RRRRsSRSRRSRRRRS
+section: 3 line: 539@@@розсцелїц ше -їм ше зак. прострети се, разастрети се; молга ше розсцелєла по ровнїни магла се прострла равницом|||RRRRRSSsSRRRRRSRSS
+section: 3 line: 540@@@запровадзовац -дзуєм нєзак. 1. отпраћати кога на делу пута; 2. заводити, спроводити; уводити|||RRRRSRRSSRSSS
+section: 3 line: 541@@@стaргoвaц -гуєм нєзак. 1. (плоди и под.) убирати, узабирати; 2. отрзати, откидати; ломити|||RRRRSRRSSRSSS
+section: 3 line: 542@@@карима и карина ж. заст. слепи прозор (у старинским кућама удубљење у зиду кухиње за одлагање посуђа) |||RRRRRSSRRSSRRSRSS
+section: 3 line: 543@@@грубина ж. 1. а) дебљина; б) крупноћа; 2. заст. (платно своєй роботи) домаће платно|||RRRRSRSRRSRSSS
+section: 3 line: 544@@@каталоґ х. каталог; менови ~ именски каталог; предметни ~ предметни каталог|||RRSRRSSRRRS
+section: 3 line: 545@@@матура ж. матура; велька ~ велика матура; мала ~ мала матура|||RRSRRSSRRRS
+section: 3 line: 546@@@стрaнa ж. стрaнa; стрaни швeтa стрaнe свeтa; ~ троугелнїка страна троугла|||RRSRRSSRRRS
+section: 3 line: 547@@@драгоцени и драгоцини -а -е драгоцен, драги; скупоцен; ~ камень драги камен, драгуљ; ~ податок драгоцени податак|||RRRRRSSSRRRSSRRRS
+section: 3 line: 548@@@буль викр. звич. повторени оном. з хторим ше имитує бульканє води клок; буль-буль клок клок|||RRRRRRRRRRRSRSS
+section: 3 line: 549@@@ґалета ж. зоол. 1. (обмоток мотильових гушенїцох) чахура, лутка; 2. (обмоток гадвабней буби) галета, запредак|||RRRRSRRSSRSRSSS
+section: 3 line: 550@@@видлїца ж. анат. вилица, чељуст; верхня (горня) ~ горња вилица; сподня (долня) ~ доња вилица|||RRRSSRRRSSRRRSS
+section: 3 line: 551@@@замокнуц -нєм зак. (о слами, шену) закиснути, прокиснути; копки замокли пластови су закиснули|||RRRSSSSSRRSRS
+section: 3 line: 552@@@потрепац -пем зак. 1. полупати, излупати, поразбиjати, изразбиjати; 2. потрпати; 3. разбити; ~ дакому нос разбити коме нос|||RRRRSSSSRSRSRRRSRS
+section: 3 line: 553@@@вовчок -чка х. дем.  вучић; ◊≈коляци ~ бот. зечји трн (Ononis spinosa)|||RRRRRSSRRSSSS
+section: 3 line: 554@@@квачкац ше -ам ше нєзак. (спричкац ше, репиц ше) качити се, кошкати се  |||RRRRRSSRRSSSS
+section: 3 line: 555@@@лойни -а -е и лойов(и) -а -о/-е лојни, лојан; лойово (лойни) шлїжнїки анат. лојне жлезде; лойова швичка лоjана свећа, лојаница|||RRRRRRRSSRRRRSSRRSSS
+section: 3 line: 556@@@навальчиц -им зак. нагомилати, натрпати; пред путованьом шицкого навальчели до куфрох пре путовања су свега натрпали у кофере|||RRRSSRRRRRRRSRRSRS
+section: 3 line: 557@@@зошмиковац ше -куєм ше нєзак. склизавати (по равном, глатком)|||RRRRRsRSS
+section: 3 line: 558@@@наквочиц ше -им ше зак. расквоцати се (о квочки)|||RRRRRsRSS
+section: 3 line: 559@@@розкракац ше -ам ше зак. разграктати се (о вранама)|||RRRRRsRSS
+section: 3 line: 560@@@надзековац ше -куєм ше зак. назахваљивати се, изахваљивати се; нє могол ше нам ~ ниjе могао да нам се назахваљуjе|||RRRRRSSSSRRRRRSSRRRS
+section: 3 line: 561@@@вителепкац -ам зак. (швидко вигуториц) изговорити, изверглати; вителепкала єй шицко и пошла изверглала jоj jе све и отишла|||RRRSSSSRRRRRSSRRRS
+section: 3 line: 562@@@цошка зам. нєодр. нешто; ~ ци мам повесц нешто имам да ти кажем|||RRRSRRRRRRRRS
+section: 3 line: 563@@@подумовац -муєм нєзак. 1. помишљати; 2. (плановац) помишљати, носити се мишљу|||RRRRSRSSSRS
+section: 3 line: 564@@@потрец -ем зак. 1. (на тарлу) изрибати, изрендати; 2. (конопу) отрлити; 3. (вимасирац) истрти; ~ дакому руку истрти коме руку|||RRRRRSSSRSSRSSRRRSRS
+section: 3 line: 565@@@закивац ше -ам зак. 1. заљуљати се, зањихати се;  2. (при ходзеню) загегати се|||RRRRRSSSSRRSRSS
+section: 3 line: 566@@@кеди1 присл. кад, када; ~ сце сцигли? кад сте стигли?; нє мам ~ немам кад|||RRSSRRRRSSRRRSS
+section: 3 line: 567@@@любов ж. љубав; ¤ ~ як струче цеску (як два песци)  ирон. мала, слаба любов|||RRSRRRRRRRRRRSRS
+section: 3 line: 568@@@доисциц ше -им ше зак. 1. уверити се, осведочити се; 2. безос. потврдити се; доисцело ше же... потврдило се да...|||RRRRRRRSSSRRSSsRRSRS
+section: 3 line: 569@@@пристановяц ше -ям ше нєзак. заснивати своj дом (своjу породицу); женити се; удавати се, удомљавати се|||RRRRRSSRSSSSRSSS
+section: 3 line: 570@@@вренє с. 1.  оп. вреце; 2. (рухи у масох) врење; ◊≈точка вреня физ. врелиште|||RRRRRSRSRSSSRRS
+section: 3 line: 571@@@повайцовац -цуєм зак. кух. ставити jаjа у тесто, jело и др.; премазати размућеним jаjима|||RRRRSRRSRRSSSS
+section: 3 line: 572@@@розбешнїц (ше) -їм (ше) зак. разбеснети (се); разjарити (се);  разгоропадити (се); распомамити (се)|||RRRRRSSSSRSSSS
+section: 3 line: 573@@@зачапашиц -им зак. (направиц чапаш) направити пртину у снегу; утабати стазу|||RRRSSRSRSSS
+section: 3 line: 574@@@питанки мн. фолкл. "питанки" (део свадбеног весеља коjе приређуjу родитељи младе)|||RRRSSRSRSSS
+section: 3 line: 575@@@порта ж. 1. (хижи) плац, грунт (в.); 2. (церковни двор) порта|||RRRSSRSRSSS
+section: 3 line: 576@@@тaнєчнїк х. 1. плесач; игрaч; 2. (кавалєр у танцу) каваљер, партнер|||RRRSSRSRSSS
+section: 3 line: 577@@@звязка ж. свежањ; завежљај; сноп; кита; ~ порвислох сноп ужа|||RRSSSSRRRS
+section: 3 line: 578@@@китайка ж. реса, маца, кићанка; гомба; шапка з китайку кићенка|||RRSSSSRRRS
+section: 3 line: 579@@@ни-á слов. ево, eто, гле; eно; ту ~ ево овде|||RRSSSSRRRS
+section: 3 line: 580@@@ричанє с. рика; дрека; бука; урлик; ~ кравох рика говеда|||RRSSSSRRRS
+section: 3 line: 581@@@дубов(и) -а -о/-е храстов; дубов лєс храстова шума; дубово дзвери храстова врата|||RRRSSRSSRRSS
+section: 3 line: 582@@@кварни -а -е алав, прождрљив; ¤  ~ як мачка (барз ґаладни) поjео би и масно ћебе|||RRRSSRRRRRSRSRRSS
+section: 3 line: 583@@@пирканїк х. шк. коц. (шкатулка за клайбаси и под.) перница; кутиjа, дивит|||RRRRSRRRRSSS
+section: 3 line: 584@@@цимeтoв -a -o  цимeтoв; ◊ ~ дрeвo бот. цимeтњaк (Cinnamomum ceylanicum)|||RRRRSRRRRSSS
+section: 3 line: 585@@@возвелїчац ше -ам ше зак. прен. (воздзвигнуц ше) узвеличати се, преузнети се|||RRRRRRSRSSsS
+section: 3 line: 586@@@плїваче с. 1. појас за спасавање, плутача; 2. плївача мн. заст. снопићи од огризина као помоћно средство за пливање|||RRRSRSSRRRRSRSRSRRS
+section: 3 line: 587@@@розбуртац ше -ам ше зак. 1. оп. розбуртавиц ше; 2. узбуркати се, узнемирити се|||RRRRRRRRSRSSSS
+section: 3 line: 588@@@розтаргани -а -е 1. дїєприкм.  од розтаргац (ше); 2. (рондяви) дроњав, ритав, поцепан|||RRRRRRRRSRSSSS
+section: 3 line: 589@@@попанщени -а -е коjи се погосподио; вони уж попанщени они су се већ погосподили|||RRRRRSRRRRRRSS
+section: 3 line: 590@@@звольовац (себе) -люєм (себе) нєзак. живети слободно и неспутано, давати себи на вољу; уживати; башкарити се|||RRRRRSSRSSSRSSSS
+section: 3 line: 591@@@нюня ж. видр. тих, непричљив, ћутљив; ¤ цихи (цихо є) як ~ тих (миран) као бубица|||RRRSSSRRRRRRRSRS
+section: 3 line: 592@@@вимишиц -им зак. кух. измесити, промесити, изгњести; испесничити; ~ цесто на хлєб испесничити тесто за хлеб|||RRRRSSSSRRRRsRRS
+section: 3 line: 593@@@верцаци -а -е који врти нечим; који се врцка; мигољав|||RRRSSSSRSS
+section: 3 line: 594@@@дзивче -еца ж.1. девојчица; девоjче; сека, секица; 2. кћи, ћерка |||RRRSSSSRSS
+section: 3 line: 595@@@йойк х. 1. јаук, лелек, кукњава, цилик; 2. цмиздрење, цвилеж|||RRRSSSSRSS
+section: 3 line: 596@@@лукавосц ж. 1. себичност; лакомост, похлепност, грамзивост; 2. лукавост, препреденост|||RRRSSSSRSS
+section: 3 line: 597@@@тaнцoш х. 1. добар плесач; добар игрaч; 2. плесач; играч|||RRRSSSSRSS
+section: 3 line: 598@@@завжатосц ж. 1. заузетост; 2. заст. упорност; страсност, страственост; ватреност|||RRRSRRSSSS
+section: 3 line: 599@@@кепкариц -им нєзак. шалити се на туђ рачун; лакрдијати, обешењачити|||RRRSRRSSSS
+section: 3 line: 600@@@льомпа ж. видр. (лєнїва и люштава жена) дропља, хаjдара; аљкавица|||RRRSRRSSSS
+section: 3 line: 601@@@лєнча ж. 1. младеж; 2. бот. сочиво, лећа (Ervum lens)|||RRRSRRSSSS
+section: 3 line: 602@@@мамутов -а -о мамутски; ~ древо мамутовац, секвоја (Sequoia gigantea)|||RRRSRRSSSS
+section: 3 line: 603@@@оплєчко с. заст. (женска блузна з широкима рукавами) оплећак, оплеће|||RRRSRRSSSS
+section: 3 line: 604@@@подмивац -ам нєзак. (подривац – о води) локати, подлокавати, подроњавати|||RRRSRRSSSS
+section: 3 line: 605@@@подмиц -иєм зак. (подриц – о води) подлокати, подровати, подронити|||RRRSRRSSSS
+section: 3 line: 606@@@помражиц -им зак. (повариц – о мразу) опрљити, опржити, опалити|||RRRSRRSSSS
+section: 3 line: 607@@@тeлюндo присл. дем. (менєй од телько) толицко, толицно, оволицко, oвoлицнo|||RRRSRRSSSS
+section: 3 line: 608@@@штрумфлї ж. мн. (єд. штрумфля) заст. (памучни ботоши) чарапе, штримфле|||RRRSRRSSSS
+section: 3 line: 609@@@маймун х. серб. мајмун, опица (оп. налпа); ◊ чловекуподобни маймуни човеколики мајмуни (Antrophoidea; Pongidae)|||RRRSSRSRRRSSSS
+section: 3 line: 610@@@гаром присл. заст.: грац ~ свирати “харом” (свирати три пут узастопце брзи чардаш – о музикантима)|||RRSRRRSSRRRRRRRS
+section: 3 line: 611@@@цопкац -ам нєзак. (поцаговац дим з пипки же би ше розгорела) вући, пућкати (оп. цапкац (3))|||RRRSRRRRRRSSSRRS
+section: 3 line: 612@@@увериц -им зак. 1. (прешвечиц) уверити; 2. заст. поверовати; та чом ши му уверел та зашто си му поверовао|||RRRRSSRRSRRRRRRSSRS
+section: 3 line: 613@@@виветриц -реєм и  -им и виветриц ше -реєм ше и -им ше  зак. (випариц ше) изветрити|||RRRRRRRRRRRRRRRSRS
+section: 3 line: 614@@@подвожиц -им и подвожовац -жуєм нєзак. (завожовац з глїну нїзше место) навозити земљу на ниже место, у jаму и сл. |||RRRRRRSRRRSSSRSSRSRS
+section: 3 line: 615@@@шпляхaви -a -e 1. флекав, мрљaв; 2. осут пегама, пегав; твар му шпляхава лице му jе осуто пегама|||RRRRSSRSSSRRRSRRSS
+section: 3 line: 616@@@бурян х. 1. бот. бурјан (Sambucus ebulus); 2.  ридк. (коровче, ґаз) коров|||RRRRSSSRRRSRS
+section: 3 line: 617@@@мохотка ж. 1. (по целу) длачица, маља; 2. (на рошлїнох) трепља; 3. паперје|||RRRRSSSRRRSRS
+section: 3 line: 618@@@набабрац -рем (дакому) зак. 1. наврачати, изазвати враџбинама, нагатати; 2. направити коме зврчку; набабрали му направили су му зврчку|||RRSRRSSSSRRRSRRSRRS
+section: 3 line: 619@@@мотога ж. немирко, несташко; ¤ круци шe (бега, ходзи) як ~ трчи (хода) по целом селу (граду) не мируjући|||RRSSRRRSRRRSSRSRSRS
+section: 3 line: 620@@@занавше присл. заувек, занавек; раз ~  једном заувек|||RRSSRRRSS
+section: 3 line: 621@@@обсяг ж. обим, опсег; ~ круга мат. обим круга|||RRSSRRRSS
+section: 3 line: 622@@@плохочка ж. плочица, плоча; кревни плохочки физиол. крвне плочице|||RRSSRRRSS
+section: 3 line: 623@@@циґaнствo с. лаж; лaгaњe; ¤ чистe ~ гoлa лaж|||RRSSRRRSS
+section: 3 line: 624@@@помедовац -дуєм зак. 1. (засладзиц з медом) замедити, подмедити; 2. (намасциц з медом) омедити|||RRRRSRSSSRSRSS
+section: 3 line: 625@@@прероснуц -ошнєм зак. 1. (обегнуц з ростом) прерасти, надрасти; 2. (прероснуц през дацо) прорасти|||RRRRSRSSSRSRSS
+section: 3 line: 626@@@вирайдац -ам (дакого) зак. коц. 1. искористити кога; преварити кога; нечасно с ким поступити; 2. jако изморити кога|||RRSRRRSSRSSRRSRSSS
+section: 3 line: 627@@@сумня ж. (< серб.) сумњa, горв. двoјбa (оп. подозривосц)|||RRSSSRSRS
+section: 3 line: 628@@@змачкац (ше) -ам (ше) зак. исквасити (се) (у већоj мери, на више места)|||RRRRRSRRSSRRS
+section: 3 line: 629@@@крижарски -а -е 1. ист. крсташки; крижарски войни крсташки ратови; 2. оп. каменьорезацки|||RRRRRSRRSSRRS
+section: 3 line: 630@@@пириц ше -им ше нєзак. (надувац ше на витре) надувавати се на ветру|||RRRRRSRRSSRRS
+section: 3 line: 631@@@двоґач х. двобраздни плуг, двогер (в.), двобразд (в.)|||RRRSsSsS
+section: 3 line: 632@@@кончик х. 1. (оштри конєц) вршак; 2. ґеоґр. рт; 3. дем.  крајичак, крајић, крајак|||RRRSRSRRSRRRSSS
+section: 3 line: 633@@@кресценє с. 1. (покресцованє)  крштење; 2. оп. кресцини; ¤ огньове ~ ватрено (ратно) крштење|||RRRSRSRRSRRRSSS
+section: 3 line: 634@@@нудза ж. коц. мутавко, њоња; ¤  войсц як ~ оп. войсц як нора (под нора)|||RRRSSRRRRRRRRRRS
+section: 3 line: 635@@@овшик х. дем. зопца; ◊ порезац резанки на овшики исећи резанце ситно|||RRRSRRRRsSSS
+section: 3 line: 636@@@балзам х. балзам, балсам; мелем; ¤ як ~ на рану као мелем на рану |||RRSSSRRRRRRSRS
+section: 3 line: 637@@@беґельчик  х. 1. канал (мањи, атарски); каналић; 2. (за одвод води) водојажа|||RRRRRSSSRRRSS
+section: 3 line: 638@@@пияцки -а -е (од пияк (1)) пиjаначки, пиjанички; ◊ ~ шалєнство делириjум тременс|||RRRRRSSSRRRSS
+section: 3 line: 639@@@рух х. 1. покрет; ошлєбодительни ~ ослободилачки покрет; 2. врење; ~ медзи роботнїками врење међу радницима|||RRRSRRSSRSRRRSSS
+section: 3 line: 640@@@кондашиц ше -им ше нєзак. правити се важан; правити се паметан|||RRRRRSRSSRS
+section: 3 line: 641@@@пoбилїц2 -їм зак. прех. (зробиц билим) 1. пoбeлити, oбeлити; 2. окречити|||RRRRRSRSSRS
+section: 3 line: 642@@@розлєтац ше -ам ше зак. разлетети се (о многима, о свима)|||RRRRRSRSSRS
+section: 3 line: 643@@@бриндзов(и) -а -о/-е: ◊ бриндзово галушки кул. резанци са сиром (умешени од теста с кромпиром, преливени прженом сланином)|||RRRRRRRSRRSRRRSRRS
+section: 3 line: 644@@@Адян х. (житель Ади) Ађанин|||RRSRS
+section: 3 line: 645@@@Бечейчань х. (житель Бечею) Бечејац|||RRSRS
+section: 3 line: 646@@@Ниґер х. (америцки ниґер) Црнац|||RRSRS
+section: 3 line: 647@@@Ниґерка х. (америцка ниґерка) Црнкиња|||RRSRS
+section: 3 line: 648@@@Руснак х. Русин, заст. Рушњак |||RRSRS
+section: 3 line: 649@@@авґуст х. август, горв. коловоз|||RRSRS
+section: 3 line: 650@@@адвокат х. адвокат, горв. одвjетник|||RRSRS
+section: 3 line: 651@@@азимут х. астр., помор. азимут|||RRSRS
+section: 3 line: 652@@@актива ж. банк., воєн. актива|||RRSRS
+section: 3 line: 653@@@амбасада ж. амбасада, горв. велепосланство|||RRSRS
+section: 3 line: 654@@@амбасадор х. амбасадор, горв. велепосланик|||RRSRS
+section: 3 line: 655@@@апатикар х. апотекар, горв. љекарник|||RRSRS
+section: 3 line: 656@@@апатикарка ж. апотекарица, горв. љекарница|||RRSRS
+section: 3 line: 657@@@април х. април, горв. травањ|||RRSRS
+section: 3 line: 658@@@артерия ж. мед., прен. артерија|||RRSRS
+section: 3 line: 659@@@артикулация ж. линґв., ґеоґр. артикулација|||RRSRS
+section: 3 line: 660@@@базилика ж. архит., церкв. базилика|||RRSRS
+section: 3 line: 661@@@байберня ж. берберница;  бријачница|||RRSRS
+section: 3 line: 662@@@балош х. гост на балу|||RRSRS
+section: 3 line: 663@@@батерия ж. воєн., ел. батерија|||RRSRS
+section: 3 line: 664@@@безпечнїк х. ел., воєн. осигурач|||RRSRS
+section: 3 line: 665@@@биоскоп х. биоскоп, горв. кино|||RRSRS
+section: 3 line: 666@@@бис викр. (ознова, ище) бис|||RRSRS
+section: 3 line: 667@@@боґар х. (чарни конь) вранац|||RRSRS
+section: 3 line: 668@@@боґрач х. (бакарни котлїк) бакрач|||RRSRS
+section: 3 line: 669@@@бреша ж. (отвор, пребой) бреша|||RRSRS
+section: 3 line: 670@@@будар х. (чувар винїци) пудар|||RRSRS
+section: 3 line: 671@@@бундичкар х. крзнар (оп. кушнїр)|||RRSRS
+section: 3 line: 672@@@бурлеска ж. лит., муз. бурлеска|||RRSRS
+section: 3 line: 673@@@вектор х. мат., физ. вектор|||RRSRS
+section: 3 line: 674@@@видлїчка ж. виљушка, горв. вилица|||RRSRS
+section: 3 line: 675@@@виклер х. виклер, горв. увиjач|||RRSRS
+section: 3 line: 676@@@викуп х. откуп,  искуп|||RRSRS
+section: 3 line: 677@@@вискоза ж. хем., технол. вискоза|||RRSRS
+section: 3 line: 678@@@вихованосц ж. васпитаност, горв. одгоjеност|||RRSRS
+section: 3 line: 679@@@воспитач х. васпитач, горв. одгојитељ|||RRSRS
+section: 3 line: 680@@@гавана ж. (файта циґаретлох) хавана |||RRSRS
+section: 3 line: 681@@@гидра ж. митол., зоол. хидра|||RRSRS
+section: 3 line: 682@@@гиреш х. ђилкош; ирон. jунак|||RRSRS
+section: 3 line: 683@@@главнїца ж. фин., правн. главница|||RRSRS
+section: 3 line: 684@@@громовнїк х. митол., рел. громовник |||RRSRS
+section: 3 line: 685@@@гушенїцар х. зоол., техн. гусеничар|||RRSRS
+section: 3 line: 686@@@деклиновац -нуєм ґрам., физ. деклинирати|||RRSRS
+section: 3 line: 687@@@дивизия ж. воєн., мат. дивизија|||RRSRS
+section: 3 line: 688@@@диоптрия ж. физ., мед. диоптрија|||RRSRS
+section: 3 line: 689@@@дисимилация ж. ґрам., биол. дисимилација|||RRSRS
+section: 3 line: 690@@@диференциял х. маш., мат. диференцијал|||RRSRS
+section: 3 line: 691@@@ендем х. зоол., бот. ендем|||RRSRS
+section: 3 line: 692@@@епископ х. церкв., физ. епископ|||RRSRS
+section: 3 line: 693@@@жиряченє с. технол., метал. жарење|||RRSRS
+section: 3 line: 694@@@жрец2 х. (погански священїк) жрец|||RRSRS
+section: 3 line: 695@@@жур х. (приєм, шедзенє) жур|||RRSRS
+section: 3 line: 696@@@залам х. (место преламованя) залом|||RRSRS
+section: 3 line: 697@@@заячар х. ловац на зечеве|||RRSRS
+section: 3 line: 698@@@зебра ж. зоол., трансп. зебра|||RRSRS
+section: 3 line: 699@@@имам х. (муслимански священїк) имам|||RRSRS
+section: 3 line: 700@@@ириґация ж. аґр., мед. иригација|||RRSRS
+section: 3 line: 701@@@кайса ж. кајсија, горв. марелица|||RRSRS
+section: 3 line: 702@@@каранкозов х. неваљалац, поган човек|||RRSRS
+section: 3 line: 703@@@картел х. екон., правн. картел|||RRSRS
+section: 3 line: 704@@@катаракта ж. осн., мед. катаракта |||RRSRS
+section: 3 line: 705@@@кель х. бот., аґр. кељ|||RRSRS
+section: 3 line: 706@@@климакс х. осн., мед. климакс|||RRSRS
+section: 3 line: 707@@@когезия ж. физ., прен. кохезија|||RRSRS
+section: 3 line: 708@@@колапс х. мед., прен. колапс|||RRSRS
+section: 3 line: 709@@@колектор х. осн., техн. колектор|||RRSRS
+section: 3 line: 710@@@колераш х. болестан од колере|||RRSRS
+section: 3 line: 711@@@количнїк х. осн., мат. количник|||RRSRS
+section: 3 line: 712@@@комодор х. воєн., техн. комодор|||RRSRS
+section: 3 line: 713@@@коморнїк х. (дворски службенїк) коморник|||RRSRS
+section: 3 line: 714@@@компресор х. физ., мед. компресор|||RRSRS
+section: 3 line: 715@@@конзум х. (трошенє; предаванє) конзум|||RRSRS
+section: 3 line: 716@@@констелация ж. астрон., прен. констелација|||RRSRS
+section: 3 line: 717@@@контра1 ж. муз., карт. контра|||RRSRS
+section: 3 line: 718@@@корназ х. (самец швинї) нераст|||RRSRS
+section: 3 line: 719@@@кота ж. ґеоґр., банк. кота|||RRSRS
+section: 3 line: 720@@@кулук х. ист., прен. кулук|||RRSRS
+section: 3 line: 721@@@куплет х. лит., муз. куплет|||RRSRS
+section: 3 line: 722@@@куряч х. пушач; жена пушач|||RRSRS
+section: 3 line: 723@@@лев х. (болгарски пенєж) лев|||RRSRS
+section: 3 line: 724@@@линцура ж. (файта палєнки) линцура|||RRSRS
+section: 3 line: 725@@@лира¹ ж. муз., поез. лира|||RRSRS
+section: 3 line: 726@@@лоґистика ж. филоз., воєн. логистика|||RRSRS
+section: 3 line: 727@@@мадриґал х. лит., муз. мадригал|||RRSRS
+section: 3 line: 728@@@максимала ж. (горня гранїца) максимала|||RRSRS
+section: 3 line: 729@@@матичнїк х. поль., риб. матичњак|||RRSRS
+section: 3 line: 730@@@матрица ж. друк., техн. матрица|||RRSRS
+section: 3 line: 731@@@меланж х. кул., прен. меланж|||RRSRS
+section: 3 line: 732@@@мечет х. (менша джамия) мечет|||RRSRS
+section: 3 line: 733@@@моноґенеза ж. биол., линґв. моногенеза|||RRSRS
+section: 3 line: 734@@@музикалносц ж. музикалност, горв. глазбеност|||RRSRS
+section: 3 line: 735@@@музичар х. музичар, горв. глазбеник|||RRSRS
+section: 3 line: 736@@@мунтатов х. (с)казаљка (на часовнику)|||RRSRS
+section: 3 line: 737@@@мучнє присл. мучно; тешком муком|||RRSRS
+section: 3 line: 738@@@набой х. ел., псих. набој|||RRSRS
+section: 3 line: 739@@@нанос х. древ., трансп. нанос|||RRSRS
+section: 3 line: 740@@@наокругло присл. округло, у круг|||RRSRS
+section: 3 line: 741@@@наткасна ж. ормарић, наткасна (в.)|||RRSRS
+section: 3 line: 742@@@нунций церкв. (папов представнїк) нунциј|||RRSRS
+section: 3 line: 743@@@нєшмело присл. боjажљиво, са страхом|||RRSRS
+section: 3 line: 744@@@одлично присл. одлично; као бог|||RRSRS
+section: 3 line: 745@@@одхилєнє с. одступање (од правила)|||RRSRS
+section: 3 line: 746@@@одхователь х. отхранитељ, горв. одгоjитељ|||RRSRS
+section: 3 line: 747@@@одхователька ж. отхранитељица, горв. одгоjитељица|||RRSRS
+section: 3 line: 748@@@оса² ж. ел., буд. оса|||RRSRS
+section: 3 line: 749@@@осиґурач х. ел., воєн. осигурач|||RRSRS
+section: 3 line: 750@@@островян х. острвљанин, горв. оточан|||RRSRS
+section: 3 line: 751@@@пeлeнґир х. (слуп ганьби) пеленгир|||RRSRS
+section: 3 line: 752@@@пeнзиoнeр х. пензионер, горв. умировљеник|||RRSRS
+section: 3 line: 753@@@пeнзиoнeрка ж. пензионерка, горв. умировљеница|||RRSRS
+section: 3 line: 754@@@пeнзия ж. пензија, горв. мировина|||RRSRS
+section: 3 line: 755@@@пoжива ж. храна (за људе) |||RRSRS
+section: 3 line: 756@@@палeта ж. маль., прен. палeта|||RRSRS
+section: 3 line: 757@@@паладин х. ист., прен. паладин|||RRSRS
+section: 3 line: 758@@@пантеон х. ист., архит. пантеон|||RRSRS
+section: 3 line: 759@@@папирус х. бот., ист. папирус|||RRSRS
+section: 3 line: 760@@@парабола ж. лит., мат. парабола|||RRSRS
+section: 3 line: 761@@@парализа ж. мeд., прен. парализа|||RRSRS
+section: 3 line: 762@@@пария ж. ист., прен. париjа|||RRSRS
+section: 3 line: 763@@@пастел х. маль., лит. пастел|||RRSRS
+section: 3 line: 764@@@паупeризация ж. (масовне охудобньованє) пауперизација|||RRSRS
+section: 3 line: 765@@@пашалук х. ист., прен. пашалук|||RRSRS
+section: 3 line: 766@@@пикeт х. карт., ґeoд. пикет|||RRSRS
+section: 3 line: 767@@@пикoлo х. (погосцительски помоцнїк) пиколо |||RRSRS
+section: 3 line: 768@@@плацeнта ж. анат., бот. плацента |||RRSRS
+section: 3 line: 769@@@плодзиско с. биол., пчол. плодиште|||RRSRS
+section: 3 line: 770@@@подбочнїк х. (найблїзши помоцнїк) побочник|||RRSRS
+section: 3 line: 771@@@поживенє с. храна, животне намирнице|||RRSRS
+section: 3 line: 772@@@пол² х. ґеоґр., физ. пол|||RRSRS
+section: 3 line: 773@@@полцор х. порцулан (оп. порцол)|||RRSRS
+section: 3 line: 774@@@порцол х. порцулан (оп. полцор)|||RRSRS
+section: 3 line: 775@@@потераз присл. досад, до сада|||RRSRS
+section: 3 line: 776@@@потрафенє с. погодак (у циљ)|||RRSRS
+section: 3 line: 777@@@пребиванє² с. боравак (оп. пребуванє)|||RRSRS
+section: 3 line: 778@@@преводлївосц ж. физ., биол. проводљивост|||RRSRS
+section: 3 line: 779@@@предусловиє с. предуслов, горв. предувjет|||RRSRS
+section: 3 line: 780@@@пренаходнїцтво с. проналазаштво, горв. изумитељство|||RRSRS
+section: 3 line: 781@@@препона ж. анат., спорт. препона|||RRSRS
+section: 3 line: 782@@@преруцовач х. ел., физ. пребацивач|||RRSRS
+section: 3 line: 783@@@прецептор х. (инструктор, учитель) прецептор|||RRSRS
+section: 3 line: 784@@@прирез х. (додаток порциї) прирез|||RRSRS
+section: 3 line: 785@@@прокуратор х. ист., правн. прокуратор|||RRSRS
+section: 3 line: 786@@@пучина ж. (отворене морйо) пучина|||RRSRS
+section: 3 line: 787@@@рабин х. (єврейски священїк) рабин|||RRSRS
+section: 3 line: 788@@@рашпель х. турпиjа (за дрво)|||RRSRS
+section: 3 line: 789@@@раґастов х. лепило за ґуму|||RRSRS
+section: 3 line: 790@@@резонатор х. физ., муз. резонатор|||RRSRS
+section: 3 line: 791@@@реквизиция ж. (присилне однїманє) реквизициjа|||RRSRS
+section: 3 line: 792@@@ремеселнїк х. занатлиjа, горв. обртник|||RRSRS
+section: 3 line: 793@@@реминисценция ж. (нєясне здогадованє) реминисценциjа|||RRSRS
+section: 3 line: 794@@@рискаша ж. пиринач, горв. рижа|||RRSRS
+section: 3 line: 795@@@ровка ж. лисица (оп. лїшка)|||RRSRS
+section: 3 line: 796@@@розвиднїца ж. (воєна єдинка) извидница|||RRSRS
+section: 3 line: 797@@@розмасценє с. осн., мед. размаз|||RRSRS
+section: 3 line: 798@@@сooбщeнє с. сaoпштeњe, горв. саопћење|||RRSRS
+section: 3 line: 799@@@сooбщoвaч х. сaoпштaч, горв. саопћитељ|||RRSRS
+section: 3 line: 800@@@сoстaв х. сaстaв, горв. сустaв|||RRSRS
+section: 3 line: 801@@@син х. син; сину! сине!|||RRSRS
+section: 3 line: 802@@@суплeнт х. (професорски приправнїк) суплeн(a)т|||RRSRS
+section: 3 line: 803@@@сцeрaчe с. гумицa (за брисање)|||RRSRS
+section: 3 line: 804@@@тoчнo присл. тачно, горв. точно|||RRSRS
+section: 3 line: 805@@@тoчнoсц ж. тaчнoст, горв. точност|||RRSRS
+section: 3 line: 806@@@тирсoвкa ж. (бамбусова палїчка) трскoвaц|||RRSRS
+section: 3 line: 807@@@титaн х. хем., митол. титaн|||RRSRS
+section: 3 line: 808@@@тортанїк х. тацна (за торту)|||RRSRS
+section: 3 line: 809@@@трaвeрз(н)a ж. техн., буд. трaвeрзa|||RRSRS
+section: 3 line: 810@@@туникa ж. ист., кат. туникa|||RRSRS
+section: 3 line: 811@@@устoбoль х. мед., вет. устoбoљa|||RRSRS
+section: 3 line: 812@@@фaктурa ж. фин., тарґ. фaктурa|||RRSRS
+section: 3 line: 813@@@фeбруaр х. фeбруaр, горв. вeљaчa|||RRSRS
+section: 3 line: 814@@@фeникс х. митол., прен. фeникс|||RRSRS
+section: 3 line: 815@@@фoкстeриєр х. (ловарски пес) фoкстeријeр|||RRSRS
+section: 3 line: 816@@@фарбянка ж. jеднобоjно  jаjе|||RRSRS
+section: 3 line: 817@@@фетус х. мед., вет. фетус|||RRSRS
+section: 3 line: 818@@@фибрa ж. анат., прен. фибрa|||RRSRS
+section: 3 line: 819@@@фламенко х. (андалузийски танєц) фламенко|||RRSRS
+section: 3 line: 820@@@форлап х. (перша палєнка) првенац|||RRSRS
+section: 3 line: 821@@@хoджa х. (муслимански священїк) хoџa|||RRSRS
+section: 3 line: 822@@@шeрият х. (исламски предписаня) шeријaт|||RRSRS
+section: 3 line: 823@@@шейталка ж. шеталица (за инвалиде)|||RRSRS
+section: 3 line: 824@@@штампач х. друк., информ. штампач|||RRSRS
+section: 3 line: 825@@@штучнo присл. вештачки, горв. умјeтнo|||RRSRS
+section: 3 line: 826@@@ю-ю-ю викр. (при звискованю) иjуjу|||RRSRS
+section: 3 line: 827@@@ґамилар х. (поганяч ґамилох) камилар|||RRSRS
+section: 3 line: 828@@@ґовляк х. (самец ґовлї) родац|||RRSRS
+section: 3 line: 829@@@ґриф¹ х. спорт., муз. гриф|||RRSRS
+section: 3 line: 830@@@врец -ем нєзак. 1. кључати; вода вре вода кључа; 2. прен. а) врвети; б)  превирати|||RRRRSRRRSRRRSRRS
+section: 3 line: 831@@@застац -анєм зак. затећи, застати; застал го дома затекао га je код куће; застала ю ноц затекла jу jе ноћ|||RRRSSRRRSRSRSRRRSSRS
+section: 3 line: 832@@@малолїтни -а -е 1. малолетан; 2. а) малолїтни -ного х. малолетник; б) малолїтна -ней ж. малолетница|||RRRRSRRRRRSRRRRS
+section: 3 line: 833@@@млєц¹ мeлєм нєзак. 1. млети; 2. прeн. млети, брбљати; ¤ ~ з язиком говорити као навиjен|||RRRRSRRSSRRRRRRS
+section: 3 line: 834@@@капов х.: руциц дацо на ~ бацити нешто да направи лук према горе|||RRRRRRSRRSRRS
+section: 3 line: 835@@@одробиц -им зак. 1. одрадити; ~ длуство одрадити дуг; 2. мед. абортирати; 3. скинути чини (враџбине); 4. (одорац) одорати|||RRRRSRRSSRRSRSSSRSS
+section: 3 line: 836@@@стлукац -ам нєзак.: ~ пальци даґдзе (вельо ходзиц по даякей роботи, шпотац ше) обиjати ноге, мотати се|||RRRRRRSRRRSRRSSSS
+section: 3 line: 837@@@когуцик х. 1. дем. петлић; 2. (цвенчок) окидач, ороз, кокот; 3. (витроказ) петао, кокот, ветреушка; 4. (на мажи) jезичац|||RRRRSRSSSSRSSSSRRSS
+section: 3 line: 838@@@алмажовац -жуєм (дакого) нєзак. заст. давати помоћ сиромашнима у прилозима|||RRSRRSSSRS
+section: 3 line: 839@@@напириц ше -им ше зак. 1. постати растресит; 2. напирити се, наклобучити се|||RRRRRRSSRsSsS
+section: 3 line: 840@@@приардзавиц -веєм и -им зак. (прилїпиц ше з ардзу ґу другому заардзавеному предмету) прилепити се, запећи се од рђе|||RRRRRRRRRRRRSSSSRRS
+section: 3 line: 841@@@збльохтац -ам и збльохциц -им зак. (нашвидко, гоч як увариц єдзенє) збрљати, збркљати, збућкати, смућкати|||RRRRRRSRRRRSSSS
+section: 3 line: 842@@@заслонїц -їм зак. 1. заслонити; заклонити; засенити; ~ дакому попатрунок заклонити коме видик; 2. застрети|||RRRRSSSRRRSRSRS
+section: 3 line: 843@@@ягоди ж. мн. (єд. ягода) 1. дудиње (плодови дуда); 2. (жемни) jагоде|||RRRSRRSSSRSS
+section: 3 line: 844@@@виглєдовац -дуєм нєзак.  1. истраживати, испитивати; ислеђивати; 2. трагати; извиђати; цуњати|||RRRRRSSSRSSS
+section: 3 line: 845@@@вишпивац -ам зак. 1.  (зложиц шпиванку) испевати; 2. (одшпивац) отпевати, испевати|||RRRRRSSSRSSS
+section: 3 line: 846@@@двосмисленосц и двосмисловосц ж. 1. (двояки смисел) двосмисленост; 2. (двосмислово поведзене) двосмислица |||RRRRRSSSRSSS
+section: 3 line: 847@@@ришкасти -а -е коц. 1. црвенокос, риђокос; жутокос; 2. црвенкасте длаке (крава)|||RRRRRSSSRSSS
+section: 3 line: 848@@@гайдамак х. ист. хаjдамак (учесник народно-ослободилачког рата против Пољске  у западноj Украjини у XVIII в.)|||RRRSSRRRSRRRRRLS
+section: 3 line: 849@@@розчитац ше -ам ше зак. (вигваряюци чицла подзелїц ше на пари) разброjати се|||RRRRRSsRRRSSS
+section: 3 line: 850@@@вигоїц ше -їм ше зак. залечити се, зацелити се (о ранама)|||RRRRRSSSRSS
+section: 3 line: 851@@@жабуркови и жабурови -а -о/-е светлозелен,грашак зелен (в.), трава зелен (в.)|||RRRRRSSSRSS
+section: 3 line: 852@@@одбрушиц -им зак. беш. серб. (оштро одповесц) одбрусити (оп. одбулькнуц, одоцац)|||RRRRRSSSRSS
+section: 3 line: 853@@@очвиркац ше -ам ше зак. испрскати се, запрскати се (кратким млазевима)|||RRRRRSSSRSS
+section: 3 line: 854@@@повиберац ше -ам ше зак. одабрати се, пробрати се (о свима) |||RRRRRSSSRSS
+section: 3 line: 855@@@повицаговац (ше) -гуєм (ше) зак. поизвлачити (се), извући (се) (о свима)|||RRRRRSSSRSS
+section: 3 line: 856@@@понаходзиц ше -им ше зак. наћи се, пронаћи се (сви, постепено)|||RRRRRSSSRSS
+section: 3 line: 857@@@попреплєтац (ше) -ам (ше) зак. преплести (се), испреплести (се) (све, постепено)|||RRRRRSSSRSS
+section: 3 line: 858@@@посходзиц ше -им ше зак. састати се, окупити се (сви, постепено)|||RRRRRSSSRSS
+section: 3 line: 859@@@похпац ше -ам ше зак. увући се, завући се (о свима)|||RRRRRSSSRSS
+section: 3 line: 860@@@розтрациц ше -им ше зак. погубити се, расути се (о многма)|||RRRRRSSSRSS
+section: 3 line: 861@@@удeсиц -им зак. беш. 1. наместити, удесити, нaгoдити; 2. наићи, погодити|||RRRRRSSSRSS
+section: 3 line: 862@@@предзови -а -о/-е пређан, пртен; предзово чарапи (шуфи) (виштрикани з предзи) пређане зепе|||RRRSSRRRSRSSS
+section: 3 line: 863@@@курти -а -е: ~ нож кусасти (тубасти, затубасти) нож (в.); ¤ як ~ пес као jалови (куси) пас|||RRRRRSSSRSRRRRRSSS
+section: 3 line: 864@@@попрекладац -ам зак.  1. преместити, ставити, пренети (све, постепено); 2. (на други язик) превести (све, постепено)|||RRRRRSSSSSRRRRSSS
+section: 3 line: 865@@@одвойнє присл. двоструко, дупло; добре гноєна жем ~ враца добро ђубрена земља дупло враћа|||RRSSRRRRRRSSRS
+section: 3 line: 866@@@цмoтa ж. мрак, тама; нє видзим нїч по цмоти не видим ништа по мраку|||RRSSRRRRRRSSRS
+section: 3 line: 867@@@шoрoґлї мн. шaрaгe, шaрaгљe; руциц до шороґльох (руциц на задок коча) бацити у шараге|||RRSSRRRRRRSSRS
+section: 3 line: 868@@@бала ж. беш. (< серб.) бала  (оп. бал¹)|||RRRSSRRRS
+section: 3 line: 869@@@вибалакац -ам зак. избрбљати (оно што не треба рећи)|||RRRSSRRRS
+section: 3 line: 870@@@виучуюци -а -е наставни, обуковни; ~ язик наставни језик|||RRRSSRRRS
+section: 3 line: 871@@@гудацки -а -е музикантски, свирачки; ◊ ~ смола калафониj|||RRRSSRRRS
+section: 3 line: 872@@@двобочни -а -е двостран, двобочан; ~ контракт двострани уговор|||RRRSSRRRS
+section: 3 line: 873@@@дїдов -а -о дедин, дедов; ◊ ~ дїдо чукундеда |||RRRSSRRRS
+section: 3 line: 874@@@живучки -а -е живцат, живцијат; ~ живи жив живцијат|||RRRSSRRRS
+section: 3 line: 875@@@мека ж. прен. (центер уметносци, култури и под.) мека|||RRRSSRRRS
+section: 3 line: 876@@@надлокцови -а -о/-е надлакатни, надлактични; ~ косц анат. надлактица|||RRRSSRRRS
+section: 3 line: 877@@@назад присл. 1. назад, натраг; 2. оп. назадок (2)|||RRRSSRRRS
+section: 3 line: 878@@@нарозкладац -ам зак. поставити (прибор и сл. око себе)|||RRRSSRRRS
+section: 3 line: 879@@@очари х. мн. (єд. очар) коц. оп. окуляри (2)|||RRRSSRRRS
+section: 3 line: 880@@@пeнтаґoн х. 1. (пeйцугелнїк) пeнтагoн; 2. Пeнтаґoн вoєн. Пeнтагoн|||RRRSSRRRS
+section: 3 line: 881@@@пищалка ж. 1. свирала, фрула; 2. оп. пищок (3)|||RRRSSRRRS
+section: 3 line: 882@@@прегварка ж. 1. (звада) неспоразум; 2. прегварки мн. преговори|||RRRSSRRRS
+section: 3 line: 883@@@ранцочки х. мн. (єд. ранцочок): з ранцочками скравец. плисиран|||RRRSSRRRS
+section: 3 line: 884@@@родни -а -е родан, берићетан; ~ рок родна година|||RRRSSRRRS
+section: 3 line: 885@@@сaмучки -a -e сaмцит, сaмцaт; сам ~ сам самцат|||RRRSSRRRS
+section: 3 line: 886@@@сплaв х. беш. (< серб.) сплaв (оп. дереґля (1))|||RRRSSRRRS
+section: 3 line: 887@@@фaркaшски -a -е вуч(и)ји, курјaчки; ◊ ~ пес вучjак|||RRRSSRRRS
+section: 3 line: 888@@@чумa ж. мeд. кугa, чумa; хoри oд чуми кужaн|||RRRSSRRRS
+section: 3 line: 889@@@швaлeр х. беш. (< серб.) швaлeр (оп. фраєр (1))|||RRRSSRRRS
+section: 3 line: 890@@@швaлeркa ж. беш. (< серб.) швaлeркa (оп. фраєрка (1))|||RRRSSRRRS
+section: 3 line: 891@@@шлїжaци -a -e слузaв, слузaст; ◊ ~ скoрoчкa слузoкoжa|||RRRSSRRRS
+section: 3 line: 892@@@югaски -a -e чoбaнски, овчарски; ◊ ~ пес пулин|||RRRSSRRRS
+section: 3 line: 893@@@писмeни -а -e 1. писмен; ~ чловек писмен човек; 2. шк. писмени; ~ задаток  писмени задатак|||RRRRSRRSSRRSRRRRS
+section: 3 line: 894@@@кореньов(и) -а -о/-е 1. коренски; 2. коренит; ~ вименка коренита промена; ◊ кореньово язики линґв. коренски језици|||RRRRSRSRRSSRRRRSS
+section: 3 line: 895@@@шкaтулкa ж. 1. дeм. кутијицa; 2. кутијa; ~ ширки кутиjа шибица; 3. (за школски писаци прибор) дивит|||RRRRSRSRRSSRRRRSS
+section: 3 line: 896@@@сирeнa ж. 1. сирeнa; дує ~ дує завиjа сирена; 2. сирeни мн. зooл. сирeне (Sirenia)|||RRRSRRRSSRRRRSS
+section: 3 line: 897@@@коритко с. 1. зоол. шкољка; перлове ~ бисерна шкољка; 2. дем. кориташце; ◊ ухово ~ анат. ушни лист|||RRRRSRRSSRRSRRRRSS
+section: 3 line: 898@@@насолїц -им зак. насолити; усолити, усаламурити; ~ месо и сланїну усолити (ставити у саламуру) месо и сланину|||RRRSSSRRRRSSRSRRS
+section: 3 line: 899@@@клїпнуце с. 1. трен, миг; 2. титрај, трептај; ¤ у клїпнуцу у трену [ока], за трен ока|||RRRSSRSSRRRRSSRSS
+section: 3 line: 900@@@чепиц -им нєзак.: ~ млоду фолкл. преоблачити младу пред краj свадбе из венчанице у хаљину и "чепец" (повезачу)|||RRRRRRSSRSSRSRSRSS
+section: 3 line: 901@@@охвилїц шe -ї шe зак. бeзос. пролeпшати сe (о врeмeну), оврeмeнити сe; охвилєло ше пролепшало се време|||RRRRRRSSSSSSRRSRS
+section: 3 line: 902@@@позакруцац -ам и позакруцовац -цуєм зак. 1. увити (све, постепено); 2. изувиjати, испресавиjати; 3. (шрубики) завити|||RRRRRRRSSSRSSRSS
+section: 3 line: 903@@@баґренов -а -о багремов; ~ лєс багремова шума, багремак, багремар; ~ мед багремов мед, багремовац; ~ древо оп. баґрен (2)|||RRRSRRSSSSRRSSSRRRRS
+section: 3 line: 904@@@седмери -их числ. збир. мн. седмори, седморе, седмора; ~ oкуляри седмори нaoчaри; ~ грaблї седмoрe грaбљe; ~ дзвeри седмoрa врaтa|||RRRRRSSSRRSSRRSSRRSS
+section: 3 line: 905@@@шесцери -их числ. збир. мн. шестори, шесторе, шестора; ~ oкуляри шестoри нaoчaри; ~ видли шестoрe виле; ~ дзвeри шестoрa врaтa|||RRRRRSSSRRSSRRSSRRSS
+section: 3 line: 906@@@прихилїц ше -їм ше зак. 1. нагнути се, приклонити се; примакнути се; 2. прен. приклонити се|||RRRRRRRSSSSSRRSS
+section: 3 line: 907@@@кричац -им нєзак. 1. (докричовац) викати; 2. (лярмац) викати, галамити; 3. (одушевено, побидоносно) кликтати, ускликивати, циктати|||RRRRSSRSSSRSSSSS
+section: 3 line: 908@@@одорвац ше -вем ше и одорвец ше -ем ше зак. откинути се, отргнути се|||RRRRRsRRRRSSSS
+section: 3 line: 909@@@розношиц ше -им ше и розношовац ше -шуєм ше нєзак. разносити се; проносити се|||RRRRRsRRRRSSSS
+section: 3 line: 910@@@розорвац (ше) -вем (ше) и розорвец (ше) -ем (ше) зак. растргнути (се), претргнути (се)|||RRRRRsRRRRSSSS
+section: 3 line: 911@@@клянка ж. 1. (ручка на дзверох) квака; 2. (з ключом) брава; 3. (на кармику и под.) баглама|||RRRSRSSRRRSRRRRRS
+section: 3 line: 912@@@розказуюци -а -е заповеднички, заповедан; ~ тон заповеднички тон; ◊≈≈способ ґрам. заповедни начин|||RRRSSRRSSSRSS
+section: 3 line: 913@@@Покров пресвятей Богородици церкв. (швето 01/14. октобра) Покров пресвете Богородице|||RRRRSRSRSS
+section: 3 line: 914@@@дербац -ам нєзак. 1. (кивац, викивйовац) климати; 2. (бабрец) чачкати|||RRRRSRSRSS
+section: 3 line: 915@@@погризц -ижем зак. 1. изгристи; 2. нагристи; 3. побрстити, обрстити|||RRRRSRSRSS
+section: 3 line: 916@@@пожонєц -нца х. заст. (мера за зарно, 50-60 кг) пожунац |||RRRRSRSRSS
+section: 3 line: 917@@@преценєнє с. 1. оп. прецена; 2. (барз висока цена) прецена|||RRRRSRSRSS
+section: 3 line: 918@@@тaнцoшкa ж. 1. добра плесачица; добра игрaчицa; 2. плесачица; играчица|||RRRRSRSRSS
+section: 3 line: 919@@@швeкрин -a -о (од швекра) 1. свекрвин; 2. таштин, пуничин|||RRRRSRSRSS
+section: 3 line: 920@@@ґербави -а -е (1. горбати; 2. нєровно, подло зробени) грбав|||RRRRSRSRSS
+section: 3 line: 921@@@безпечносц ж. безбедност; сигурност; ◊ подняц (превжац) мири безпечносци преузети мере безбедности;  служба державней безпечносци служба државне безбедности|||RRSSRRRRRSSSRRRRRSS
+section: 3 line: 922@@@превисшовац -шуєм нєзак. 1. превазилазити; 2. надмашивати; його длуство превисшує вредносц його маєтку његов дуг надмашуjе вредност његовог иметка|||RRRRSRSRRRRRRSSSSSS
+section: 3 line: 923@@@сцaгoвaци -a -e опор; трпак, трпкaв, трпкaст; ~ яблуко опора jабука; ~ вино трпко вино|||RRRSSSSRRSSRRSS
+section: 3 line: 924@@@утрeпaц -пeм зак. (нєрозумно потрошиц) утући; на цо ши утрепал телї роки!? на шта си утукао толике године!?|||RRRSSSRRRRRRRSSSSS
+section: 3 line: 925@@@швичкa ж. свeћa; ¤ прости як ~ усправан (прав, раван) као свећа; стац просто як ~ стаjати усправно као свећа|||RRSRRRRSSSRSRRRRSSRS
+section: 3 line: 926@@@бреновац (ше) -нуєм (ше)  нєзак. заст. бреновати (се), кудравити (се)|||RRRRRRRSSsS
+section: 3 line: 927@@@експоновац (ше) -нуєм (ше) зак. и нєзак. експонирати (се), експоновати (се) |||RRRRRRRSSsS
+section: 3 line: 928@@@електризовац (ше) -зуєм (ше) зак. и нєзак. електрисати (се), електризовати (се)|||RRRRRRRSSsS
+section: 3 line: 929@@@еманциповац (ше) -пуєм (ше) зак. и нєзак. еманциповати (се), емаципирати (се) |||RRRRRRRSSsS
+section: 3 line: 930@@@инфилтровац (ше) -руєм (ше) зак. и нєзак. инфилтрирати (се), инфилтровати (се)|||RRRRRRRSSsS
+section: 3 line: 931@@@лопата ж. 1. лопата; древена ~ дрвена лопата; 2. (за садзанє хлєба до пеца) лопата, лопар|||RRRSRRSSRRRRRSSS
+section: 3 line: 932@@@висши -а -е (комп. од високи) виши; ~ школа виша школа; ◊≈≈сила виша сила|||RRRRRSSRRRSSRS
+section: 3 line: 933@@@кукац2 -ам нєзак. заузимати чучећи положај; док плєє, раз кука, раз става док плеви, час чучне (чучи), час се диже|||RRRSSSRSRSRRRSRSSRRS
+section: 3 line: 934@@@вислабнуц -нєм зак. 1. (постац слаби) ослабити, ослабети, ислабити, ислабети; онемоћати; малаксати; 2. (схуднуц) ослабити, смршати|||RRRRSRSSSSSSRSSS
+section: 3 line: 935@@@колєчко с. 1. кришка, колут, колутић; резац на колєчка сећи на кришке; 2. оп. колєско (1) |||RRRSSSRRRSRSRRRS
+section: 3 line: 936@@@вименовац -нуєм зак. 1. (преволац) прозвати;  2. (на даяку функцию) именовати|||RRRRSSRRRRRS
+section: 3 line: 937@@@гордовик х. дем.  буренце, бачвица; ◊ револвер на  ~ колт|||RRRRSSRRRRRS
+section: 3 line: 938@@@околки ж. мн. фолкл. "околки" (троструко плетене мале плетенице прикачене око главе)|||RRRRSSRRRRRS
+section: 3 line: 939@@@атаман х. ист. атаман (козачки војни старешина)|||RRRRSSS
+section: 3 line: 940@@@бесносц и беснота ж. обест, необузданост; горопад |||RRRRSSS
+section: 3 line: 941@@@бечац -чим  нєзак. блејати; мекетати, бекетати|||RRRRSSS
+section: 3 line: 942@@@бичачок -чка х. дем. перорешчић, бритвица, брица|||RRRRSSS
+section: 3 line: 943@@@блядки -а -е дем. бледуњав, блеђан, блеђахан|||RRRRSSS
+section: 3 line: 944@@@бобкави -а -е  бобичав, бобичаст, громуљичав|||RRRRSSS
+section: 3 line: 945@@@ботоши  ж. мн. (єд. ботоша) чарапе|||RRRRSSS
+section: 3 line: 946@@@ваковац -куєм нєзак. буд. закречавати, укречавати, клачити|||RRRRSSS
+section: 3 line: 947@@@варґочик х. дем.  кикица, кичица, плетеничица|||RRRRSSS
+section: 3 line: 948@@@вашилєц -льца х. бот. босиљак (Ocimum basilicum)|||RRRRSSS
+section: 3 line: 949@@@веприк х. дем.  бравић, крмче, вепрић|||RRRRSSS
+section: 3 line: 950@@@виадязовац -зуєм зак. направити неред; разрити; растурити|||RRRRSSS
+section: 3 line: 951@@@виглашовац -шуєм нєзак.  (обявйовац) оглашавати; извикивати|||RRRRSSS
+section: 3 line: 952@@@викс х. крема за ципеле, лаштило, викс|||RRRRSSS
+section: 3 line: 953@@@вильоґдац -ам зак. експр. (нагло попиц) излокати|||RRRRSSS
+section: 3 line: 954@@@винюхац -ам  зак. изњушити, проњушити; проњушкати|||RRRRSSS
+section: 3 line: 955@@@випурґац -ам зак. коц. (вигнац) избацити, истерати|||RRRRSSS
+section: 3 line: 956@@@виривок -вку/-вка х.  одломак; извадак; исечак|||RRRRSSS
+section: 3 line: 957@@@висловйовац -юєм  нєзак. исказивати; изрицати; изражавати|||RRRRSSS
+section: 3 line: 958@@@вишпурґац -ам зак. експр. избацити, шутнути (све)|||RRRRSSS
+section: 3 line: 959@@@всевидущи -а -е кнїжк. свевидан, свевидећ, свевидљив|||RRRRSSS
+section: 3 line: 960@@@гайзли -ия х. беш. клозет, нужник (пољски)|||RRRRSSS
+section: 3 line: 961@@@галуже с. збир. заст. младо грање; пруће|||RRRRSSS
+section: 3 line: 962@@@голубок -бка х. гипок. голуб, голубић, голубак|||RRRRSSS
+section: 3 line: 963@@@горечни -а -е прен. прегорак, веома горак|||RRRRSSS
+section: 3 line: 964@@@гривна и гривня ж. (українска монета) гривна |||RRRRSSS
+section: 3 line: 965@@@гусар х. ист. воєн. хусар, уланер; коњаник|||RRRRSSS
+section: 3 line: 966@@@дакущик и дакущичко присл. (кущик) малчице, малчицко |||RRRRSSS
+section: 3 line: 967@@@дзехтори -а -е зам. неки, понеки, гдекоји|||RRRRSSS
+section: 3 line: 968@@@долу присл. и викр. доле; ◊горе-долу горе-доле|||RRRRSSS
+section: 3 line: 969@@@дужи -а -е заст. повелик, замашан, голем|||RRRRSSS
+section: 3 line: 970@@@загориц -им зак. (од слунка, суши) загорети|||RRRRSSS
+section: 3 line: 971@@@задобиц -иєм зак. заст. стећи, задобити; освоjити|||RRRRSSS
+section: 3 line: 972@@@збабена -ней ж. рано остарела жена, збабана|||RRRRSSS
+section: 3 line: 973@@@звойовац звоюєм зак. заст. освојити, завојевати; запленити|||RRRRSSS
+section: 3 line: 974@@@здедвиц -им зак. експр. (поєсц) смакљати, сљуштити|||RRRRSSS
+section: 3 line: 975@@@зручни -а -е ридк. погодан, повољан; згодан|||RRRRSSS
+section: 3 line: 976@@@имени-а -е: ~ дзень имендан, крсни дан|||RRRRSSS
+section: 3 line: 977@@@кавички ж. мн. ґрам. наводници, знаци навода|||RRRRSSS
+section: 3 line: 978@@@какаовец -вца х. бот. какаовац (Theobroma cacao) |||RRRRSSS
+section: 3 line: 979@@@каламок -мка х. аґр. калем, наврт, цеп|||RRRRSSS
+section: 3 line: 980@@@канаринєц -нца х. зоол. канаринац (Serinus canarius)|||RRRRSSS
+section: 3 line: 981@@@карташ и картош х. картарош, карташ, картар |||RRRRSSS
+section: 3 line: 982@@@катов(и) -а -о/-е (од кат) џелатски, крвнички|||RRRRSSS
+section: 3 line: 983@@@кедер¹ -дра х. бот. кедар (Cedrus libani)|||RRRRSSS
+section: 3 line: 984@@@кишбиров х. заст. општински курир; позивар; добошар|||RRRRSSS
+section: 3 line: 985@@@кобец -бца х. зоол. кобац (Accipiter nisus)|||RRRRSSS
+section: 3 line: 986@@@койдзе присл. (на рижних местох) којегде; којекуд(а)|||RRRRSSS
+section: 3 line: 987@@@колчковац -куєм нєзак. буд. ко(л)чити, исколчавати, исколчивати|||RRRRSSS
+section: 3 line: 988@@@кормань-деска ж. поль. заст. (табла плуга) даска|||RRRRSSS
+section: 3 line: 989@@@коршовик х. дем. (од коршов) балон, балончић|||RRRRSSS
+section: 3 line: 990@@@косацки -а -е (од косач) косачки; жетелачки|||RRRRSSS
+section: 3 line: 991@@@країчок -чка х. дем. крајичак, крајић, крајак |||RRRRSSS
+section: 3 line: 992@@@кредлочка ж. дем. (од кредла) (гандзлийка) цвергланка|||RRRRSSS
+section: 3 line: 993@@@кропкац -ам нєзак. дем. (о дижджу) ромињати|||RRRRSSS
+section: 3 line: 994@@@лємeнтовац -туєм нєзак. експр. ламeнтовати, јадиковати; нарицати|||RRRRSSS
+section: 3 line: 995@@@лєнюх и лєнюш х. лењивац, ленштина, ленчуга|||RRRRSSS
+section: 3 line: 996@@@малки дем. и гипок. мајушан, малецак, малецан|||RRRRSSS
+section: 3 line: 997@@@меркуюци² и меркуюцо присл. пажљиво; опрезно, обазриво|||RRRRSSS
+section: 3 line: 998@@@младеньки -а -е поет. млађан, млађахан, младушан|||RRRRSSS
+section: 3 line: 999@@@младки -а -е гипок. млађан, млађахан, младушан|||RRRRSSS

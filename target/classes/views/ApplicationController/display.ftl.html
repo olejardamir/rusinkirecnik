@@ -1,0 +1,58 @@
+<#import "../layout/defaultLayout.ftl.html" as layout> 
+<@layout.myLayout "Home page">    
+
+
+<h3>Fajl: <div style="display: inline-block;">src/main/java/assets/sections/${section}.txt</div></h3>
+<h3>Red: <div style="display: inline-block;">${line}</div></h3><br>
+
+<#list dataPojo as data>
+    <#if data.pattern=='S'>
+    <div id='box${data.pivot}' onclick="change('${data.pivot}')" style="border:10px solid red; padding:5px;display: inline-block;">${data.data}</div>
+    <#else>
+    <div id='box${data.pivot}' onclick="change('${data.pivot}')" style="border:10px solid blue; padding:5px;display: inline-block;">${data.data}</div>
+    </#if>
+</#list>
+
+
+
+<br>
+<br>
+<br>
+
+
+<form action="/next">
+    <input type="hidden" id='line' name="fline" value='${line}'>
+    <input type="hidden" id='section' name="fsection" value='${section}'>
+    <#list dataPojo as data>
+    <input type="hidden" id='pattern${data.pivot}' name="fname${data.pivot}" value='${data.pattern}'>
+    </#list>
+<input type="submit" style="border:3px solid purple; display: inline-block;" value="Sledeća !">
+</form>
+
+
+
+
+
+<script>
+function change(id) {
+    var element = document.getElementById('box'+id),
+    style = window.getComputedStyle(element),
+    color = style.getPropertyValue('border-left-color');
+
+    if(color=='rgb(255, 0, 0)'){
+      document.getElementById('box'+id).style.borderColor = "blue";
+      document.getElementById('pattern'+id).value = "R";
+    }
+
+    if(color=='rgb(0, 0, 255)'){
+          document.getElementById('box'+id).style.borderColor = "red";
+          document.getElementById('pattern'+id).value = "S";
+    }
+
+
+}
+</script>
+
+
+
+</@layout.myLayout>
