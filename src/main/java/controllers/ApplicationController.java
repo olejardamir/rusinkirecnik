@@ -18,7 +18,10 @@ import java.util.Map;
 public class ApplicationController {
 
     public Result index() throws Exception {
-        BufferedReader reader = new BufferedReader(new FileReader("src/main/java/assets/misc/lastPosition.txt"));
+        BufferedReader reader = new BufferedReader(
+                new InputStreamReader(
+                        new FileInputStream("src/main/java/assets/misc/lastPosition.txt"), "UTF8"));
+
         String l = reader.readLine();
         reader.close();
         String[] sp = l.split(" ");
@@ -71,7 +74,10 @@ public class ApplicationController {
         if(!f.exists()) return null;
 
         String l;
-        BufferedReader reader = new BufferedReader(new FileReader(f));
+        BufferedReader reader = new BufferedReader(
+                new InputStreamReader(
+                        new FileInputStream(f), "UTF8"));
+
         int cnt=0;
         while((l=reader.readLine())!=null){
             if(cnt==line) {reader.close(); return l;}
@@ -99,7 +105,11 @@ public class ApplicationController {
         BufferedWriter writer = new BufferedWriter(new FileWriter(tmp));
 
         String l;
-        BufferedReader reader = new BufferedReader(new FileReader(f));
+
+        BufferedReader reader = new BufferedReader(
+                new InputStreamReader(
+                        new FileInputStream(f), "UTF8"));
+
         while((l=reader.readLine())!=null){
             if(l.contains(searchStr)){
                 String newLine = l.substring(0,l.indexOf("|||"))+"|||"+newPattern;
